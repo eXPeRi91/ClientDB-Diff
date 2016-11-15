@@ -371,7 +371,9 @@ Id,Unknown0,Unknown1,Unknown2,Unknown3,Unknown4,Unknown5,Unknown6,Unknown7,Unkno
 "473","127158","43689","Heavenly Onyx Cloud Serpent","Heavenly Onyx Cloud Serpents are born with violet scales covering the entirety of their body. Over time, these scales darken to the color of onyx.","|cFFFFD200Drop:|r Sha of Anger|n|cFFFFD200Location:|r Kun-Lai Summit","0","248","128","0","0"
 "474","127161","43692","Heavenly Crimson Cloud Serpent","Heavenly Crimson Cloud Serpents are considered to be among the noblest of dragons.","|cFFFFD200Achievement: |rGlory of the Pandaria Raider|n|cFFFFD200Category: |rDungeons & Raids","0","248","128","0","5"
 "475","127164","43693","Heavenly Golden Cloud Serpent","Warmth and hope emanate from this great creature, which glows like a sunrise over the mountains.","|cFFFFD200Vendor: |rMistweaver Ku|n|cFFFFD200Zone: |rTimeless Isle|n|cFFFFD200Faction: |rEmperor Shaohao - Exalted","0","248","128","0","2"
-"476","127165","43695","Heavenly Jade Cloud Serpent","Warmth and wisdom emanate from this great creature, which glows like moonlight passing through the finest jade.","","0","248","192","0","-1"
+"476","127165","43695","Heavenly Jade Cloud Serpent","Warmth and wisdom emanate from this great creature, which glows like moonlight passing through the finest jade.","|cFFFFD200Vendor: |rMistweaver Xia
+|cFFFFD200Zone: |rTimeless Isle
+|cFFFFD200Cost: |r5000|Hcurrency:1166|h|TInterface\Icons\pvecurrency-justice.BLP:0|t|h","0","248","128","0","2"
 "477","127169","43697","Heavenly Azure Cloud Serpent","Warmth and serenity emanate from this great creature, which glows like the cloudless sky of a summer afternoon.","|cFFFFD200Achievement: |rLord of the Reins|n|cFFFFD200Category: |rMounts","0","248","0","0","5"
 "478","127170","46087","Astral Cloud Serpent","It is believed that Astral Cloud Serpents possess answers to some of life's greatest mysteries. Pity they can't talk.","|cFFFFD200Drop:|r Cache of Pure Energy","0","248","128","0","0"
 "479","127174","43704","Azure Riding Crane","The majestic crane is a treasured friend of the pandaren.","|cFFFFD200Vendor: |rJaluu the Generous|n|cFFFFD200Zone: |rVale of Eternal Blossoms|n|cFFFFD200Faction: |rGolden Lotus - Exalted|n|cFFFFD200Cost: |r500|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t","0","230","0","0","2"
@@ -574,6 +576,7 @@ Id,Unknown0,Unknown1,Unknown2,Unknown3,Unknown4,Unknown5,Unknown6,Unknown7,Unkno
 "877","230401","73991","Ivory Hawkstrider","""My winged children fill the skies. Not this one though.""
 
 -Aviana","|cFFFFD200Vendor: |rTrinket|n|cFFFFD200Zone: |rHighmountain|n|cFFFFD200Cost: |r10000|TINTERFACE\MONEYFRAME\UI-GOLDICON.BLP:0|t","0","230","0","0","2"
+"878","230844","73248","Rockspine Basilisk","The spikes on this beast can pierce plate armor with ease -- only the most elite riders can even consider mounting this deadly pincushion.","Brawler's Guild","0","230","0","0","2"
 "881","230987","74032","Arcanist's Manasaber","Upon her return to The Nighthold, First Arcanist Thalyssra saw to it that adventurers who helped her liberate Suramar were rewarded with prized mounts from the royal stable.
 
 Summoning this mount in Suramar City will also apply Masquerade.","|cFFFFD200Quest: |rFate of the Nightborne|n|cFFFFD200Zone: |rSuramar","1.5","248","0","0","1"

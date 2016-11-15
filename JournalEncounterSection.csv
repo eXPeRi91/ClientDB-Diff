@@ -837,8 +837,8 @@ This ability costs Rajh 20 Sun Energy.","0","0","132847","130","2864","0","0","0
 "2864","Solar Winds","Rajh summons a fiery vortex in front of him. The vortex grows and moves away from Rajh, then begins to move around the room. The Solar Winds vortex inflicts $74108s1 Fire damage and knocks back any players that move within $74108A2 yards.
 
 This ability costs Rajh 20 Sun Energy.","0","0","132386","130","2865","0","0","0","0","5","2","-1"
-"2865","Solar Fire","As the Solar Winds move across the room, they periodically create small $89133A2 yard patches of Solar Fire. The Solar Fire inflicts $89133s1 Fire damage every $89131t1 second to any player that stands within the flames.","0","0","132386","130","2866","0","0","2","8","6","2","-2"
-"2866","Blessing of the Sun","When Rajh has less than 10 Sun Energy, he walks to the middle of the room and reenergizes himself with the Blessing of the Sun for $76344d. Rajh gains 5 Sun Energy, inflicts $76355s3 Fire damage to all players, and increases the damage players inflict by $76355s1% while he channels the Blessing of the Sun.","0","0","135973","130","0","0","0","0","32","7","2","-1"
+"2865","Solar Fire","As the Solar Winds move across the room, they periodically create small $89133A2 yard patches of Solar Fire. The Solar Fire inflicts $89133s1 Fire damage every $89131t1 second to any player that stands within the flames.","0","0","132386","130","2866","0","0","2","8","6","2","14"
+"2866","Blessing of the Sun","When Rajh has less than 10 Sun Energy, he walks to the middle of the room and reenergizes himself with the Blessing of the Sun for $76355d. Rajh gains 5 Sun Energy, inflicts $76355s3 Fire damage to all players, and increases the damage players inflict by $76355s1% while he channels the Blessing of the Sun.","0","0","135973","130","0","0","0","0","32","7","2","-1"
 "2867","Stage One: Make Way for the Nalorakk!","Nalorakk begins the battle in troll form. He performs Brutal Strikes on the tank and periodically Surges toward the most distant enemy, leaving them vulnerable to additional Surges.","0","0","0","187","2870","2868","0","3","0","1","0","-2"
 "2868","Brutal Strike","Nalorakk strikes his current target with a brutal attack that ignores armor, inflicting $42384s1 Physical damage.","0","0","132215","187","2869","0","2867","2","0","2","2","-2"
 "2869","Surge","Nalorakk charges the most distant enemy, inflicting $42402s2 Physical damage. In addition, Physical damage dealt to the target increases by $42402s3% for $42402d.","0","0","236305","187","0","0","2867","2","0","3","2","-2"
@@ -8748,18 +8748,18 @@ $bullet;Keep an eye on the direction that the images of Melandrus are facing to 
 "12942","Blade Dash [Placeholder]","","0","209602","0","1720","13865","0","0","1","32","5","2","-1"
 "12955","Overview","The rate at which time flows fluctuates over the course of the encounter. These changes affect players' movement and actions, but the Chronomatic Anomaly is exceptionally sensitive to the flow of time and its abilities may be drastically affected.","0","0","0","1725","12959","12956","0","0","0","1","3","-1"
 "12956","Tanks","$bullet;Monitor your stacks of |cFF2959D3|Hspell:206607|h[Chronometric Particles]|h|r and be aware of any changes in their duration.
-$bullet;|cFF2959D3|Hspell:211927|h[Power Overwhelming]|h|r can be interrupted by a |cFF2959D3|Hspell:212115|h[Temporal Smash]|h|r from a Temporal Orb.","0","0","0","1725","12957","0","12955","0","1","2","3","-1"
-"12957","Healers","$bullet;You will have significantly different amounts of time to react to |cFF2959D3|Hspell:206609|h[Time Release]|h|r based on the the current passage of time rate.
-$bullet;Waning Time Particles continually emit raidwide damage.
-$bullet;|cFF2959D3|Hspell:211927|h[Power Overwhelming]|h|r inflicts increasing damage until it is interrupted by a |cFF2959D3|Hspell:212115|h[Temporal Smash]|h|r.","0","0","0","1725","12958","0","12955","0","4","3","3","-1"
-"12958","Damage Dealers","$bullet;Waning Time Particles continually inflict raidwide damage unless interrupted.
+$bullet;|cFF2959D3|Hspell:211927|h[Power Overwhelming]|h|r can be interrupted by a |cFF2959D3|Hspell:212109|h[Temporal Smash]|h|r from a Temporal Orb.","0","0","0","1725","12957","0","12955","0","1","2","3","-1"
+"12957","Healers","$bullet;You will have significantly different amounts of time to react to |cFF2959D3|Hspell:206609|h[Time Release]|h|r based on the the current Passage of Time rate.
+$bullet;Waning Time Particles continually emit raidwide damage via |cFF2959D3|Hspell:207228|h[Warp Nightwell]|h|r.
+$bullet;|cFF2959D3|Hspell:211927|h[Power Overwhelming]|h|r inflicts increasing damage until it is interrupted by a |cFF2959D3|Hspell:212109|h[Temporal Smash]|h|r.","0","0","0","1725","12958","0","12955","0","4","3","3","-1"
+"12958","Damage Dealers","$bullet;Waning Time Particles continually emit raidwide damage via |cFF2959D3|Hspell:207228|h[Warp Nightwell]|h|r unless interrupted.
 $bullet;Defeat Waning Time Particles quickly to allow your tanks to interrupt |cFF2959D3|Hspell:211927|h[Power Overwhelming]|h|r.","0","0","0","1725","0","0","12955","0","2","4","3","-1"
 "12959","Section 9","","0","205653","0","1725","13063","0","0","0","32","5","2","-1"
 "12960","Section 5","","0","206609","0","1725","12962","0","0","0","4","9","2","-1"
 "12962","Section 7","","0","206615","0","1725","13019","0","0","2","32","10","2","0"
 "12963","Section 8","$[14,15,16,17
 
-Power Overwhelming continues until the Chronomatic Anomaly is interrupted by a Temporal Smash.$]","0","211927","0","1725","0","0","0","0","80","22","2","-1"
+Power Overwhelming continues until the Chronomatic Anomaly is interrupted by a Temporal Smash.$]","0","211927","0","1725","0","0","0","0","80","23","2","-1"
 "12964","Section 18","","0","199567","0","1672","0","0","12515","0","16","17","2","-1"
 "12965","Overview","Most of Nightmare Lord Xavius's attacks inflict Corruption on their victims. As a player gains more Corruption, they become increasingly vulnerable to the power of the Nightmare, eventually losing control entirely and turning against their friends at maximum Corruption.
 
@@ -8819,7 +8819,7 @@ $[16
 
 When a Depleted Time Particle dies, it explodes in a Tachyon Burst.$]","61492","0","0","1725","13022","13020","0","2","0","11","1","0"
 "13020","Section 11","","0","212831","0","1725","13442","0","13019","2","0","12","2","0"
-"13022","Waning Time Particle","Continually Warps the fabric of time within the Nightwell, damaging all players in the zone.  Leaves behind a Temporal Rift on death.","68616","0","0","1725","13884","13023","0","0","32","15","1","-1"
+"13022","Waning Time Particle","Continually Warps the fabric of time within the Nightwell, damaging all players in the zone.  Leaves behind a Temporal Rift and divides into Fragmented Time Particles on death.","68616","0","0","1725","13884","13023","0","0","32","15","1","-1"
 "13023","Section 14","$[15,16
 
 When the Waning Time Particle reaches 30% health remaining this ability becomes uninterruptable.$]","0","207228","0","1725","13286","0","13022","0","0","16","2","-1"
@@ -8899,41 +8899,38 @@ On Mythic Difficulty, whenever a player shatters, they create an Ice Crystal whi
 After his lieutenants fall, Gul'dan leaps into the fray himself, harnessing the power of the Fel to bolster his frail frame. At 85%, 70%, and 55% health, Gul'dan again taps into the active Eye of Aman'Thul, empowering his abilities.
 
 As his health dwindles further, Gul'dan beseeches his Legion masters for additional power, unleashing his ultimate strength while disrupting the aid that players receive from the Eye.","0","0","0","1737","13111","13108","0","1","0","1","3","-1"
-"13108","Damage Dealers","$bullet;Use |cFF2959D3|Hspell:210339|h[Time Dilation]|h|r to increase damage at opportune moments or cover distances quickly.
-$bullet;Interrupt |cFF2959D3|Hspell:208672|h[Carrion Wave]|h|r.
+"13108","Damage Dealers","$bullet;Assist |cFF2959D3|Hspell:206222|h[Bonds of Fel]|h|r-afflicted allies in order to reduce the damage to manageable levels.
+$bullet;Move away from others when afflicted with |cFF2959D3|Hspell:209270|h[Eye of Gul'dan]|h|r or |cFF2959D3|Hspell:211152|h[Empowered Eye of Gul'dan]|h|r.","0","0","0","1737","14880","0","13107","2","2","2","3","0"
+"13109","Healers","$bullet;Fel Lord Kuraz'mal's |cFF2959D3|Hspell:206675|h[Shatter Essence]|h|r inflicts high damage.
 $bullet;Assist |cFF2959D3|Hspell:206222|h[Bonds of Fel]|h|r-afflicted allies in order to reduce the damage to manageable levels.
-$bullet;Absorb |cFF2959D3|Hspell:208802|h[Soul Corrosion]|h|r inside the |cFF2959D3|Hspell:206939|h[Well of Souls]|h|r in order to reduce raidwide damage taken from |cFF2959D3|Hspell:206744|h[Black Harvest]|h|r.","0","0","0","1737","13109","0","13107","0","2","2","3","-1"
-"13109","Healers","$bullet;Use |cFF2959D3|Hspell:217830|h[Scattering Field]|h|r to absorb nearby allies' Fire damage taken at opportune moments.
-$bullet;Coordinate use of damage-reduction abilities to help tanks with Fel Lord Kuraz'mal's |cFF2959D3|Hspell:206675|h[Shatter Essence]|h|r.
-$bullet;Dispel Inquisitor Vethriz's |cFF2959D3|Hspell:212568|h[Drain]|h|r.
-$bullet;|cFF2959D3|Hspell:206744|h[Black Harvest]|h|r inflicts high raidwide damage.","0","0","0","1737","13110","0","13107","0","4","3","3","-1"
+$bullet;|cFF2959D3|Hspell:206744|h[Black Harvest]|h|r inflicts high raidwide damage.","0","0","0","1737","14882","0","13107","2","4","5","3","0"
 "13110","Tanks","$bullet;Use |cFF2959D3|Hspell:210296|h[Resonant Barrier]|h|r to survive moments in the encounter that may otherwise kill you.
 $bullet;While fighting Fel Lord Kuraz'mal, be prepared for |cFF2959D3|Hspell:206675|h[Shatter Essence]|h|r.
-$bullet;D'zorykx the Trapper will throw |cFF2959D3|Hspell:206883|h[Soul Vortex]|h|r at his current target, drastically increasing their damage taken.","0","0","0","1737","0","0","13107","0","1","4","3","-1"
-"13111","Stage One: The Council of Elders","Gul'dan locks himself inside the active Eye of Aman'Thul, summoning his demonic lieutenants. However, proximity to the active Eye of Aman'thul bestows equally powerful abilities to players, based on their role.","0","0","0","1737","14062","13273","0","2","0","5","0","0"
-"13112","Gul'dan","","68500","0","0","1737","0","13119","13111","1","0","10","1","-1"
-"13113","Section 23","","0","212256","0","1737","0","13121","13112","0","33","13","2","-1"
-"13119","Section 10","","0","206219","0","1737","13304","0","13112","0","0","11","2","-1"
-"13121","Fel Lord Kuraz'mal","","68627","0","0","1737","13124","13122","13113","0","1","14","1","-1"
-"13122","Section 14","","0","206675","0","1737","13306","0","13121","0","17","15","2","-1"
-"13124","Inquisitor Vethriz","","68625","0","0","1737","13129","13128","13113","0","0","17","1","-1"
+$bullet;D'zorykx the Trapper will throw |cFF2959D3|Hspell:206883|h[Soul Vortex]|h|r at his current target, drastically increasing their damage taken.","0","0","0","1737","0","0","13107","2","1","9","3","0"
+"13111","Stage One: The Council of Elders","Gul'dan locks himself inside the active Eye of Aman'Thul, summoning his demonic lieutenants.","0","0","0","1737","14885","13112","0","2","0","10","0","0"
+"13112","Gul'dan","","68500","0","0","1737","0","13119","13111","1","0","11","1","-1"
+"13113","Section 23","","0","212256","0","1737","0","13121","13112","0","33","14","2","-1"
+"13119","Section 10","","0","206219","0","1737","13304","0","13112","0","0","12","2","-1"
+"13121","Fel Lord Kuraz'mal","","68627","0","0","1737","13124","13122","13113","0","1","15","1","-1"
+"13122","Section 14","","0","206675","0","1737","13306","0","13121","0","1","16","2","-1"
+"13124","Inquisitor Vethriz","","68625","0","0","1737","13129","13128","13113","0","0","18","1","-1"
 "13125","Section 16","","0","207006","0","1737","13127","0","13124","0","0","20","2","-1"
 "13127","Section 18","","0","207938","0","1737","0","0","13124","0","0","21","2","-1"
-"13128","Section 19","","0","206840","0","1737","13305","0","13124","0","0","18","2","-1"
+"13128","Section 19","","0","206840","0","1737","13125","0","13124","0","0","19","2","-1"
 "13129","D'zorykx the Trapper","","68626","0","0","1737","0","13130","13113","0","1","22","1","-1"
 "13130","Section 20","","0","206883","0","1737","13132","0","13129","0","0","23","2","-1"
 "13132","Section 22","","0","208545","0","1737","0","0","13129","0","0","24","2","-1"
-"13133","Stage Two: The Ritual of Aman'Thul","Gul'dan leaps into the fray himself, harnessing the power of the Fel to bolster his frail frame. At 85%, 70%, and 55% health, Gul'dan again taps into the active Eye of Aman'Thul, expanding the potency of his abilities.","0","0","0","1737","13145","13277","0","2","0","52","0","0"
-"13134","Gul'dan","","68500","0","0","1737","0","14088","13133","1","0","57","1","-1"
-"13136","Section 31","","0","206222","0","1737","13149","13137","13134","0","0","60","2","-1"
-"13137","Section 32","","0","206221","0","1737","0","0","13136","1","0","61","2","-1"
-"13142","Section 39","","0","208672","0","1737","13308","0","13500","0","64","67","2","-1"
-"13145","Stage Two: The Master's Power","At 50% health Gul'dan harnesses the Eye of Aman'Thul to gain new and empowered abilities, also disrupting the powers that players received from the Eye.","0","0","0","1737","14090","13252","0","2","0","72","0","0"
+"13133","Stage Two: The Ritual of Aman'Thul","Gul'dan leaps into the fray himself, harnessing the power of the Fel to bolster his frail frame. At 85%, 70%, and 55% health, Gul'dan again taps into the active Eye of Aman'Thul, expanding the potency of his abilities.","0","0","0","1737","13145","13277","0","2","0","72","0","0"
+"13134","Gul'dan","","68500","0","0","1737","0","14088","13133","1","0","77","1","-1"
+"13136","Section 31","","0","206222","0","1737","13149","13137","13134","0","0","80","2","-1"
+"13137","Section 32","","0","206221","0","1737","0","0","13136","1","0","81","2","-1"
+"13142","Section 39","","0","208672","0","1737","13308","0","13500","0","64","87","2","-1"
+"13145","Stage Two: The Master's Power","At 50% health Gul'dan harnesses the Eye of Aman'Thul to gain new and empowered abilities, also disrupting the powers that players received from the Eye.","0","0","0","1737","14090","13252","0","2","0","92","0","0"
 "13146","Section 14","","0","209378","0","1719","0","0","13076","0","0","19","2","-1"
 "13147","Arcane Storm [Placeholder]","","0","209628","0","1720","13148","0","0","0","0","7","2","-1"
 "13148","Wind Slash [Placeholder]","","0","209676","0","1720","0","0","0","1","4","8","2","-1"
-"13149","Section 38","","0","209270","0","1737","13312","13150","13134","0","0","62","2","-1"
-"13150","Section 39","","0","209291","0","1737","13782","0","13149","1","32","63","2","-1"
+"13149","Section 38","","0","209270","0","1737","13312","13150","13134","0","0","82","2","-1"
+"13150","Section 39","","0","209291","0","1737","13782","0","13149","1","32","83","2","-1"
 "13152","Stage Two: From the Shadows","Upon reaching 65% health remaining, Xavius intensifies his attack.","0","0","0","1726","13160","13923","0","0","0","24","0","-1"
 "13158","Section 26","","0","208431","0","1726","0","0","12970","0","32","10","2","-1"
 "13160","Stage Three: World of Darkness","Upon reaching 30% health remaining, Xavius calls upon the purest Nightmare to engulf his enemies.","0","0","0","1726","0","13168","0","0","0","35","0","-1"
@@ -8991,7 +8988,7 @@ This effect stacks.$]","0","209471","0","1738","0","0","13186","0","0","15","2",
 "13218","Overview","Grand Magistrix Elisande harness the power of the Nightwell to shape time itself. When her health is low and she is nearing defeat, she rewinds time to send players back to the point at which they first engaged her. The fight recommences from this point, but Elisande uses new abilities mixed in with echoes of her past actions. She can perform this feat twice, after which time can no longer save her.","0","0","0","1743","13783","13219","0","0","0","1","3","-1"
 "13219","Damage Dealers","$bullet;|cFF2959D3|Hspell:210022|h[Epocheric Orb]|h|r damages the entire raid if allowed to strike the ground.
 $bullet;Expedient Elementals continually damage the raid with |cFF2959D3|Hspell:209568|h[Exothermic Release]|h|r until they are dispatched. This damage increases with each successful cast.
-$bullet;Recursive Elementals |cFF2959D3|Hspell:221863|h[Shield]|h|r Grand Magistrix Elisande from all damage as long as they are alive.","0","0","0","1743","13220","0","13218","0","2","2","3","-1"
+$bullet;Recursive Elementals |cFF2959D3|Hspell:221863|h[Shield]|h|r Grand Magistrix Elisande from damage as long as they are alive.","0","0","0","1743","13220","0","13218","0","2","2","3","-1"
 "13220","Healers","$bullet;|cFF2959D3|Hspell:210387|h[Permeliative Torment]|h|r inflicts increasing damage over time to its victims.
 $bullet;|cFF2959D3|Hspell:210022|h[Epocheric Orb]|h|r damages the entire raid if allowed to strike the ground.
 $bullet;|cFF2959D3|Hspell:209597|h[Conflexive Burst]|h|r's duration can be manipulated by using time zones.","0","0","0","1743","13221","0","13218","0","4","3","3","-1"
@@ -9011,7 +9008,7 @@ In Mythic Difficulty, the Arcanetic Ring expands to the outside of the room afte
 "13227","Section 15","","0","209590","0","1743","13888","0","13226","2","0","11","2","0"
 "13228","Postpone","","0","209620","0","1743","13784","0","13226","2","4160","13","2","0"
 "13229","Expedient Elemental","When this elemental dies it leaves behind a zone of  Fast Time.","55142","0","0","1743","0","13230","13225","0","0","16","1","-1"
-"13230","Burst","","0","209568","0","1743","13231","0","13229","0","4","17","2","-1"
+"13230","Burst","","0","209568","0","1743","13231","0","13229","0","68","17","2","-1"
 "13231","Expedite","","0","209617","0","1743","13239","0","13229","2","4160","18","2","0"
 "13232","Time Layer 3","While in this Time Layer Grand Magistrix Elisande will use her |cFF2959D3|Hspell:209597|hConflexive Burst|h|r and |cFF2959D3|Hspell:210387|hPermeliative Torment|h|r abilities.","0","0","0","1743","0","13224","0","0","0","29","0","-1"
 "13233","Section 10","$[14,15,16,17
@@ -9041,8 +9038,8 @@ In Mythic difficulty, players catching the Orbs are afflicted with Epocheric Vul
 On Raid Finder difficulty, Eye of Fate only affects the Nightmare Horror's current target.$]","0","210984","0","1738","13202","0","13188","0","1","18","2","-1"
 "13243","Section 26","","0","215143","0","1738","13321","0","13193","0","0","31","2","-1"
 "13244","Section 28","","0","210931","0","1738","0","0","13185","0","0","11","2","-1"
-"13249","Section 43","","0","212686","0","1737","13988","14231","13145","0","0","80","2","-1"
-"13252","Section 46","","0","211152","0","1737","13313","13439","13145","0","32","73","2","-1"
+"13249","Section 43","","0","212686","0","1737","13988","14231","13145","0","0","100","2","-1"
+"13252","Section 46","","0","211152","0","1737","13313","13439","13145","0","32","93","2","-1"
 "13254","Overview","As the fight progresses, Elerethe swaps between the nightmarish forms of a spider and a roc. When she takes to the skies as a roc, she moves to a different platform, forcing players to weather her |cFF2959D3|Hspell:210948|h[Dark Storm]|h|r as they make their way towards her.$[16
 
 On Mythic difficulty, Elrethe uses an additional ability depending on what platform she is currently on. On the first platform she uses Tangled Webs, on the second she uses Violent Winds, and on the third Nightmare Spawn.$]","0","0","0","1744","13258","13255","0","2","0","1","3","0"
@@ -9067,32 +9064,28 @@ $bullet;During Roc form, pick up a |cFF2959D3|Hspell:212993|h[Shimmering Feather
 "13269","Section 23","","0","209973","0","1743","0","0","13235","0","1","28","2","-1"
 "13270","Section 23","","0","209971","0","1743","0","0","13232","0","65","32","2","-1"
 "13271","Section 10","","0","197579","0","1499","0","0","12445","1","0","6","2","-1"
-"13273","Essence of Aman'Thul","","0","0","0","1737","13112","13274","13111","1","0","6","0","-1"
-"13274","Section 49","","0","210339","0","1737","14061","0","13273","0","2","7","2","-1"
-"13275","Section 50","","0","210296","0","1737","0","0","13273","0","1","9","2","-1"
-"13276","Section 51","","0","210296","0","1737","0","0","14063","0","1","29","2","-1"
-"13277","Essence of Aman'Thul","","0","0","0","1737","13134","13278","13133","1","0","53","0","-1"
-"13278","Section 53","","0","210339","0","1737","13279","0","13277","0","2","54","2","-1"
-"13279","Section 54","","0","217830","0","1737","13280","0","13277","0","4","55","2","-1"
-"13280","Section 55","","0","210296","0","1737","0","0","13277","0","1","56","2","-1"
+"13276","Section 51","","0","210296","0","1737","0","0","14063","0","1","49","2","-1"
+"13277","Essence of Aman'Thul","","0","0","0","1737","13134","13278","13133","3","0","73","0","0"
+"13278","Section 53","","0","210339","0","1737","13279","0","13277","0","2","74","2","-1"
+"13279","Section 54","","0","217830","0","1737","13280","0","13277","0","4","75","2","-1"
+"13280","Section 55","","0","210296","0","1737","0","0","13277","0","1","76","2","-1"
 "13281","The Maniac","Trilliax's maniac personality takes over, increasing the frequency of Arcane Slash.","68566","0","0","1731","13282","13010","0","0","0","22","1","-1"
 "13282","The Caretaker","Trilliax's caretaker personality takes over and is no longer hostile.","68565","0","0","1731","0","13013","0","0","0","26","1","-1"
 "13284","Section 11","","0","212030","0","1499","12489","13746","0","0","0","8","2","-1"
 "13285","The Cleaner","Trilliax's cleaner personality takes over and wants to scrub the raid into oblivion.","68567","0","0","1731","13281","13007","0","0","0","17","1","-1"
 "13286","Section 19","","0","212072","0","1725","14405","13287","13022","0","32","17","2","-1"
-"13287","Section 20","","0","212099","0","1725","0","13289","13286","0","1","18","2","-1"
+"13287","Section 20","","0","212099","0","1725","14721","13289","13286","0","1","18","2","-1"
 "13288","Section 21","","0","212297","0","1725","0","0","13019","2","16","14","2","0"
-"13289","Section 22","","0","212115","0","1725","0","0","13287","0","1","19","2","-1"
+"13289","Section 22","","0","212109","0","1725","0","0","13287","0","1","19","2","-1"
 "13302","Nightmare Abomination","Crawls towards its prey, leaving a trail of corruption in its wake.","69455","0","0","1654","0","0","12427","3","2","6","1","0"
-"13304","Section 43","","0","206514","0","1737","13113","0","13112","0","0","12","2","-1"
-"13305","Section 44","","0","212568","0","1737","13125","0","13124","0","128","19","2","-1"
-"13306","Section 45","","0","206875","0","1737","0","0","13121","0","1","16","2","-1"
+"13304","Section 43","","0","206514","0","1737","13113","0","13112","0","0","13","2","-1"
+"13306","Section 45","","0","206875","0","1737","0","0","13121","0","1","17","2","-1"
 "13307","Section 7","","0","200227","0","1500","13765","0","0","0","0","7","2","-1"
-"13308","Section 46","","0","212625","0","1737","0","13309","13500","0","0","68","2","-1"
-"13309","Section 47","","0","208626","0","1737","0","0","13308","1","0","69","2","-1"
-"13312","Section 48","","0","212256","0","1737","13498","13500","13134","0","1","65","2","-1"
-"13313","Section 48","","0","161121","0","1737","13314","0","13145","0","16","75","2","-1"
-"13314","Section 49","","0","206939","0","1737","13249","13785","13145","0","0","76","2","-1"
+"13308","Section 46","","0","212625","0","1737","0","13309","13500","0","0","88","2","-1"
+"13309","Section 47","","0","208626","0","1737","0","0","13308","1","0","89","2","-1"
+"13312","Section 48","","0","212256","0","1737","13498","13500","13134","2","1","85","2","0"
+"13313","Section 48","","0","161121","0","1737","13314","0","13145","0","16","95","2","-1"
+"13314","Section 49","","0","206939","0","1737","13249","13785","13145","0","0","96","2","-1"
 "13315","Section 17","","0","212707","0","1744","13264","13881","13263","0","0","16","2","-1"
 "13316","Section 16","","0","212834","0","1657","12538","0","12317","2","0","11","2","1"
 "13317","Damage Dealers","$bullet;If affected by |cFF2959D3|Hspell:200359|h[Induced Paranoia]|h|r, stay away from other players to keep them from taking damage and being feared.
@@ -9220,10 +9213,10 @@ $bullet;Do not stand in the rifts opened by Soultrapper Mevra during |cFF2959D3|
 "13433","Soultrapper Mevra","","69803","0","0","1756","0","13434","0","1","0","12","1","-1"
 "13434","Section 13","","0","213648","0","1756","13435","0","13433","0","0","13","2","-1"
 "13435","Section 14","","0","213611","0","1756","0","0","13433","0","0","14","2","-1"
-"13436","Section 33","","0","213796","0","1751","0","0","13387","2","1","18","2","0"
-"13437","Section 32","","0","213760","0","1751","0","0","13394","2","1","28","2","0"
-"13438","Section 34","","0","213808","0","1751","0","0","13384","2","1","37","2","0"
-"13439","Section 49","","0","209291","0","1737","0","0","13252","1","32","74","2","-1"
+"13436","Section 33","","0","213796","0","1751","0","0","13387","2","0","18","2","0"
+"13437","Section 32","","0","213760","0","1751","0","0","13394","2","0","28","2","0"
+"13438","Section 34","","0","213808","0","1751","0","0","13384","2","0","37","2","0"
+"13439","Section 49","","0","209291","0","1737","0","0","13252","1","32","94","2","-1"
 "13440","Burst of Time","","0","206612","0","1725","12960","0","0","0","0","8","2","-1"
 "13441","Section 11","","0","209017","0","1713","12915","0","12914","2","64","10","2","0"
 "13442","Section 22","","0","207063","0","1725","13288","0","13019","2","4112","13","2","0"
@@ -9279,8 +9272,8 @@ On Mythic difficulty, existing Allies of Nature are corrupted by Cenarius and fa
 "13495","Surging Egg Sacs","Running into these egg sacs releases a swarm of Skittering Spiderlings.","70606","0","0","1744","13262","13496","0","0","0","26","1","-1"
 "13496","Skittering Spiderling","These tiny spiders burst forth and attack in numbers when released from their egg sacs.","67323","0","0","1744","0","0","13495","0","0","27","1","-1"
 "13497","Section 26","","0","215582","0","1744","13819","0","13263","0","1","23","2","-1"
-"13498","Section 50","","0","227554","0","1737","0","14255","13134","0","1","70","2","-1"
-"13500","Dreadlords of the Twisting Nether","","0","0","0","1737","0","13142","13312","1","0","66","0","-1"
+"13498","Section 50","","0","227554","0","1737","0","14255","13134","0","1","90","2","-1"
+"13500","Dreadlords of the Twisting Nether","","0","0","0","1737","0","13142","13312","1","0","86","0","-1"
 "13501","Section 33","","0","215761","0","1738","13185","13649","13184","2","4144","7","2","0"
 "13502","Section 33","","0","210781","0","1738","13243","0","13193","0","48","30","2","-1"
 "13503","Section 12","","0","215929","0","1662","0","0","12347","2","8","12","2","2"
@@ -9471,8 +9464,8 @@ $bullet;Dispel |cFF2959D3|Hspell:219045|h[Mother's Embrace]|h|r to prevent your 
 "13740","Section 6","","0","218823","0","1790","13742","0","0","0","0","6","2","-1"
 "13742","Section 8","","0","218888","0","1790","13743","0","0","0","0","7","2","-1"
 "13743","Section 8","","0","219045","0","1790","0","0","0","0","0","8","2","-1"
-"13744","Section 50","","0","208802","0","1737","13745","0","13314","0","32","78","2","-1"
-"13745","Section 51","","0","206744","0","1737","0","0","13314","0","16","79","2","-1"
+"13744","Section 50","","0","208802","0","1737","13745","0","13314","0","32","98","2","-1"
+"13745","Section 51","","0","206744","0","1737","0","0","13314","0","16","99","2","-1"
 "13746","Section 11","","0","220443","0","1499","0","0","13284","3","8","9","2","2"
 "13747","Section 10","","0","220481","0","1498","0","0","0","0","8","10","2","-1"
 "13748","Section 10","","0","212786","0","1655","13085","0","12303","2","2","7","2","2"
@@ -9493,12 +9486,12 @@ $bullet;Dispel |cFF2959D3|Hspell:219045|h[Mother's Embrace]|h|r to prevent your 
 "13778","Section 37","","0","209034","0","1726","13170","0","13152","2","0","29","2","0"
 "13779","Section 39","","0","205588","0","1726","0","13162","13152","0","32","31","2","-1"
 "13780","Section 38","","0","208385","0","1726","0","0","13162","0","0","34","2","-1"
-"13782","Section 52","","0","211152","0","1737","0","0","13149","0","0","64","2","-1"
+"13782","Section 52","","0","211152","0","1737","0","0","13149","0","0","84","2","-1"
 "13783","Section 27","","0","208944","0","1743","13241","0","0","0","32","5","2","-1"
 "13784","Section 28","","0","221864","0","1743","13238","0","13226","0","64","14","2","-1"
-"13785","Section 52","","0","221891","0","1737","13744","0","13314","0","4","77","2","-1"
+"13785","Section 52","","0","221891","0","1737","13744","0","13314","0","4","97","2","-1"
 "13786","Fel Soul","","0","0","0","1751","0","13787","0","3","4096","38","0","0"
-"13787","Gift of Mannoroth","","0","230901","1117880","1751","0","14435","13786","2","0","39","2","0"
+"13787","Gift of Mannoroth","","0","230901","1117880","1751","0","14435","13786","2","1","39","2","0"
 "13788","Section 39","","0","230423","0","1751","13789","0","13787","2","32","42","2","0"
 "13789","Section 41","","0","230414","0","1751","14434","0","13787","2","0","43","2","0"
 "13817","Section 25","","0","218629","0","1744","0","0","13259","2","4096","14","2","0"
@@ -9560,7 +9553,7 @@ $bullet;Be aware, J'im's |cFF2959D3|Hspell:223614|h[Resonance]|h|r can create ma
 "13881","Section 29","","0","212993","0","1744","0","0","13315","0","0","17","2","-1"
 "13882","Section 30","","0","215306","0","1744","0","0","13261","2","4128","9","2","0"
 "13883","Section 11","","0","215204","0","1718","0","0","13070","0","128","10","2","-1"
-"13884","Section 22","","0","219815","0","1725","12963","0","0","0","0","21","2","-1"
+"13884","Section 22","","0","219815","0","1725","12963","0","0","0","0","22","2","-1"
 "13885","Section 18","","0","191999","0","1467","0","0","12074","0","1","10","2","-1"
 "13886","Tanks","$bullet;Ensure that no tank overlaps the effects of both |cFF2959D3|Hspell:197943|h[Overwhelm]|h|r and |cFF2959D3|Hspell:197942|h[Rend Flesh]|h|r at the same time, taunting when necessary.
 $bullet;Switch off which tank holds Ursoc's attention for |cFF2959D3|Hspell:197943|h[Overwhelm]|h|r and |cFF2959D3|Hspell:197942|h[Rend Flesh]|h|r each time he charges.
@@ -9652,7 +9645,7 @@ $bullet;Do not stand near insects during |cFF2959D3|Hspell:203552|h[Heart of the
 "13926","Section 28","","0","226229","0","1706","0","0","13468","1","0","21","2","-1"
 "13927","Section 48","$[16 
 
- In Mythic difficulty the Nightmare Ancient will cast Deisccating Stomp twice in rapid succession. $]","0","226821","0","1750","0","13928","13350","2","0","22","2","0"
+ In Mythic difficulty, the Nightmare Ancient will cast Desiccating Stomp twice in rapid succession. $]","0","226821","0","1750","0","13928","13350","2","0","22","2","0"
 "13928","Section 49","","0","211156","0","1750","0","0","13927","2","0","23","2","0"
 "13929","Section 50","","0","226713","0","1750","0","0","13348","2","4096","18","2","0"
 "13930","Section 30","","0","209549","0","1743","13227","0","13226","2","1","10","2","0"
@@ -9665,8 +9658,8 @@ $bullet;Do not stand near insects during |cFF2959D3|Hspell:203552|h[Heart of the
 "13985","Section 43","","0","227492","0","1732","0","0","13066","0","0","39","2","-1"
 "13986","Section 15","","0","198190","0","1489","12336","0","0","1","0","5","2","-1"
 "13987","Section 16","","0","202913","0","1467","0","0","12080","0","0","19","2","-1"
-"13988","Section 53","","0","227554","0","1737","0","14256","13145","0","1","82","2","-1"
-"13989","Overview","When threatened the Mana Devourer attack its enemies with a variety of area effect attacks. Periodically during combat the Mana Devourer will |cFF2959D3|Hspell:227297|h[Coalesce Power]|h|r expelling all of its mana as creating |cFF2959D3|Hspell:227296|h[Loose Unstable Mana]|h|r. Players will need to collect the |cFF2959D3|Hspell:227296|h[Loose Mana]|h|r before it reaches the Mana Devourer. After collecting the |cFF2959D3|Hspell:227502|h[Unstable Mana]|h|r, the players need to clear its stacks by standing in |cFF2959D3|Hspell:227528|h[Energy Void]|h|r. If the Mana Devourer should ever reach full mana it will cast |cFF2959D3|Hspell:227507|h[Decimating Essence]|h|r, most likely killing the entire party.","0","0","0","1818","13993","13990","0","0","0","1","3","-1"
+"13988","Section 53","","0","227554","0","1737","0","14256","13145","0","1","102","2","-1"
+"13989","Overview","When threatened, the Mana Devourer attacks its enemies with a variety of area effect attacks. Periodically during combat, the Mana Devourer will |cFF2959D3|Hspell:227297|h[Coalesce Power]|h|rexpelling all of its mana as |cFF2959D3|Hspell:227296|h[Loose Unstable Mana]|h|r. Players will need to collect the |cFF2959D3|Hspell:227296|h[Loose Mana]|h|r before it reaches the Mana Devourer. After collecting the |cFF2959D3|Hspell:227502|h[Unstable Mana]|h|r, the players need to clear its stacks by standing in |cFF2959D3|Hspell:227528|h[Energy Void]|h|r. If the Mana Devourer should ever reach full mana it will cast |cFF2959D3|Hspell:227507|h[Decimating Essence]|h|r, most likely killing the entire party.","0","0","0","1818","13993","13990","0","0","0","1","3","-1"
 "13990","Damage Dealers","$bullet;Absorb |cFF2959D3|Hspell:227296|h[Loose Mana]|h|r before it gets to the Mana Devourer to keep the Mana Devourer from reaching full mana and casting |cFF2959D3|Hspell:227507|h[Decimating Essence]|h|r.
 $bullet;Use |cFF2959D3|Hspell:227523|h[Energy Void]|h|r to remove stacks of |cFF2959D3|Hspell:227502|h[Unstable Mana]|h|r.","0","0","0","1818","13991","0","13989","0","2","2","3","-1"
 "13991","Healer","$bullet;Absorb |cFF2959D3|Hspell:227296|h[Loose Mana]|h|r before it gets to the Mana Devourer to keep the Mana Devourer from reaching full mana and casting |cFF2959D3|Hspell:227507|h[Decimating Essence]|h|r.
@@ -9693,16 +9686,16 @@ $bullet;Move away from other players when afflicted by |cFF2959D3|Hspell:227959|
 $bullet;|cFF2959D3|Hspell:227626|h[Odyn's Test]|h|r will stack until Odyn melee attacks a different target.
 $bullet;Move as far away from Odyn as possible while afflicted with |cFF2959D3|Hspell:228915|h[Stormforged Spear]|h|r.","0","0","0","1819","0","0","13998","0","1","4","3","-1"
 "14002","Stage One: Might of the Valarjar","","0","0","0","1819","14010","14005","0","1","0","5","0","-1"
-"14003","Odyn","","67230","0","0","1819","0","14346","14011","1","0","43","1","-1"
+"14003","Odyn","","67230","0","0","1819","0","14346","14011","1","0","45","1","-1"
 "14005","Hymdall","","67773","0","0","1819","14006","14178","14002","0","1","6","1","-1"
 "14006","Hyrja","","65076","0","0","1819","14016","14251","14002","0","1","11","1","-1"
 "14009","Valarjar Runebearer","As Odyn begins Draw Power, 5 Valarjar Runebearers leap into combat. Slaying a Valarjar Runebearer on its corresponding rune empowers the rune, allowing players with a matching symbol to become Protected.","67274","0","0","1819","0","14164","14167","3","0","23","1","0"
 "14010","Stage Two: The Prime Designate","","0","0","0","1819","14011","14404","0","1","0","25","0","-1"
-"14011","Stage Three: The Final Test","","0","0","0","1819","0","14003","0","1","0","42","0","-1"
-"14014","Valarjar Runebearer","As Odyn begins Draw Power, 5 Valarjar Runebearers leap into combat. Slaying a Valarjar Runebearer brands up to 4 players with a rune.  Players with a matching symbol can touch the rune to become Protected.","67274","0","0","1819","0","14166","14342","2","0","40","1","0"
+"14011","Stage Three: The Final Test","","0","0","0","1819","0","14003","0","1","0","44","0","-1"
+"14014","Valarjar Runebearer","As Odyn begins Draw Power, 5 Valarjar Runebearers leap into combat. Slaying a Valarjar Runebearer brands up to 4 players with a rune.  Players with a matching symbol can touch the rune to become Protected.","67274","0","0","1819","0","14166","14342","2","0","42","1","0"
 "14016","Odyn","","67230","0","0","1819","0","14167","14002","1","0","16","1","-1"
 "14017","Section 14","","0","227629","0","1819","14396","0","14167","2","16","18","2","0"
-"14018","Section 20","","0","227475","0","1819","0","0","14003","0","0","51","2","-1"
+"14018","Section 20","","0","227475","0","1819","0","0","14003","0","0","53","2","-1"
 "14020","Elfyra","","17550","0","0","1820","14028","14021","0","0","0","6","1","-1"
 "14021","Section 7","","0","227543","0","1820","14022","0","14020","0","0","7","2","-1"
 "14022","Section 4","","0","227477","0","1820","14025","14023","14020","0","0","8","2","-1"
@@ -9726,44 +9719,39 @@ $bullet;Move as far away from Odyn as possible while afflicted with |cFF2959D3|H
 "14047","Damage Dealers","$bullet; Kill off Winged Assistants summoned by |cFF2959D3|Hspell:227477|h[Summon Assistants]|h|r to avoid being overrun.","0","0","0","1820","14048","0","14045","0","2","3","3","-1"
 "14048","Healers","$bullet; Expect a spike in healing needed if the tank does not avoid |cFF2959D3|Hspell:227410|h[Wondrous Radiance]|h|r.
 $bullet; While there are Winged Assistants alive, the entire party will be taking damage and need healing.","0","0","0","1820","0","0","14045","0","4","4","3","-1"
-"14061","Section 51","","0","217830","0","1737","13275","0","13273","0","4","8","2","-1"
-"14062","Stage One: The Ritual of Aman'Thul","Gul'dan, taking no chances, leaps into the fray, harnessing the power of the Fel to bolster his frail frame, periodically summoning his demonic lieutenants and utilizing the active Eye of Aman'Thul, expanding the potency of his abilities.","0","0","0","1737","13133","14063","0","2","0","25","0","0"
-"14063","Essence of Aman'Thul","","0","0","0","1737","14066","14064","14062","1","0","26","0","-1"
-"14064","Section 56","","0","210339","0","1737","14065","0","14063","0","2","27","2","-1"
-"14065","Section 51","","0","217830","0","1737","13276","0","14063","0","4","28","2","-1"
-"14066","Gul'dan","","68500","0","0","1737","0","14067","14062","1","0","30","1","-1"
-"14067","Section 51","","0","206219","0","1737","14069","14068","14066","0","0","31","2","-1"
-"14068","Section 30","","0","206220","0","1737","0","0","14067","0","0","32","2","-1"
-"14069","Section 31","","0","206222","0","1737","14071","14070","14066","0","0","33","2","-1"
-"14070","Section 32","","0","206221","0","1737","0","0","14069","1","0","34","2","-1"
-"14071","Section 38","","0","209270","0","1737","14074","14072","14066","0","0","35","2","-1"
-"14072","Section 39","","0","209291","0","1737","14073","0","14071","1","32","36","2","-1"
-"14073","Section 52","","0","211152","0","1737","0","0","14071","0","0","37","2","-1"
-"14074","Section 50","","0","227554","0","1737","14075","14254","14066","0","1","38","2","-1"
-"14075","Section 23","","0","212256","0","1737","0","14076","14066","0","33","40","2","-1"
-"14076","Fel Lord Kuraz'mal","","68627","0","0","1737","14080","14078","14075","0","1","41","1","-1"
-"14078","Section 14","","0","206675","0","1737","14079","0","14076","0","17","42","2","-1"
-"14079","Section 45","","0","229945","0","1737","0","0","14076","0","0","43","2","-1"
-"14080","Inquisitor Vethriz","","68625","0","0","1737","14085","14081","14075","0","0","44","1","-1"
-"14081","Section 19","","0","206840","0","1737","14082","0","14080","0","0","45","2","-1"
-"14082","Section 44","","0","212568","0","1737","14083","0","14080","0","128","46","2","-1"
-"14083","Section 16","","0","207006","0","1737","14084","0","14080","0","0","47","2","-1"
-"14084","Section 18","","0","207938","0","1737","0","0","14080","0","0","48","2","-1"
-"14085","D'zorykx the Trapper","","68626","0","0","1737","0","14086","14075","0","1","49","1","-1"
-"14086","Section 20","","0","206883","0","1737","14087","0","14085","0","0","50","2","-1"
-"14087","Section 22","","0","208545","0","1737","0","0","14085","0","0","51","2","-1"
-"14088","Section 51","","0","206219","0","1737","13136","14089","13134","0","0","58","2","-1"
-"14089","Section 30","","0","206220","0","1737","0","0","14088","0","0","59","2","-1"
-"14090","Stage Three: The Master's Power","At 40% health Gul'dan harnesses the Eye of Aman'Thul to gain new and empowered abilities, also disrupting the powers that players received from the Eye.","0","0","0","1737","0","14091","0","2","0","84","0","0"
-"14091","Section 46","","0","211152","0","1737","14093","14092","14090","0","32","85","2","-1"
-"14092","Section 49","","0","209291","0","1737","0","0","14091","1","32","86","2","-1"
-"14093","Section 48","","0","161121","0","1737","14094","0","14090","0","16","87","2","-1"
-"14094","Section 49","","0","206939","0","1737","14098","14095","14090","0","0","88","2","-1"
-"14095","Section 52","","0","221891","0","1737","14096","0","14094","0","4","89","2","-1"
-"14096","Section 50","","0","208802","0","1737","14097","0","14094","0","32","90","2","-1"
-"14097","Section 51","","0","206744","0","1737","0","0","14094","0","16","91","2","-1"
-"14098","Section 43","","0","212686","0","1737","14099","14232","14090","0","0","92","2","-1"
-"14099","Section 53","","0","227554","0","1737","0","14257","14090","0","1","94","2","-1"
+"14062","Stage One: The Ritual of Aman'Thul","Gul'dan, taking no chances, leaps into the fray, harnessing the power of the Fel to bolster his frail frame, periodically summoning his demonic lieutenants and utilizing the active Eye of Aman'Thul, expanding the potency of his abilities.","0","0","0","1737","13133","14063","0","2","0","45","0","0"
+"14063","Essence of Aman'Thul","","0","0","0","1737","14066","14064","14062","1","0","46","0","-1"
+"14064","Section 56","","0","210339","0","1737","14065","0","14063","0","2","47","2","-1"
+"14065","Section 51","","0","217830","0","1737","13276","0","14063","0","4","48","2","-1"
+"14066","Gul'dan","","68500","0","0","1737","0","14067","14062","1","0","50","1","-1"
+"14067","Section 51","","0","206219","0","1737","14069","14068","14066","0","0","51","2","-1"
+"14068","Section 30","","0","206220","0","1737","0","0","14067","0","0","52","2","-1"
+"14069","Section 31","","0","206222","0","1737","14071","14070","14066","0","0","53","2","-1"
+"14070","Section 32","","0","206221","0","1737","0","0","14069","1","0","54","2","-1"
+"14071","Section 38","","0","209270","0","1737","14074","14072","14066","0","0","55","2","-1"
+"14072","Section 39","","0","209291","0","1737","14073","0","14071","1","32","56","2","-1"
+"14073","Section 52","","0","211152","0","1737","0","0","14071","0","0","57","2","-1"
+"14074","Section 50","","0","227554","0","1737","14075","14254","14066","0","1","58","2","-1"
+"14075","Section 23","","0","212256","0","1737","0","14076","14066","0","33","60","2","-1"
+"14076","Fel Lord Kuraz'mal","","68627","0","0","1737","14080","14078","14075","0","1","61","1","-1"
+"14078","Section 14","","0","206675","0","1737","14079","0","14076","0","17","62","2","-1"
+"14079","Section 45","","0","229945","0","1737","0","0","14076","0","0","63","2","-1"
+"14080","Inquisitor Vethriz","","68625","0","0","1737","14085","14081","14075","0","0","64","1","-1"
+"14081","Section 19","","0","206840","0","1737","14082","0","14080","0","0","65","2","-1"
+"14082","Section 44","","0","212568","0","1737","14083","0","14080","0","128","66","2","-1"
+"14083","Section 16","","0","207006","0","1737","14084","0","14080","0","0","67","2","-1"
+"14084","Section 18","","0","207938","0","1737","0","0","14080","0","0","68","2","-1"
+"14085","D'zorykx the Trapper","","68626","0","0","1737","0","14086","14075","0","1","69","1","-1"
+"14086","Section 20","","0","206883","0","1737","14087","0","14085","0","0","70","2","-1"
+"14087","Section 22","","0","208545","0","1737","0","0","14085","0","0","71","2","-1"
+"14088","Section 51","","0","206219","0","1737","13136","14089","13134","0","0","78","2","-1"
+"14089","Section 30","","0","206220","0","1737","0","0","14088","0","0","79","2","-1"
+"14090","Stage Three: The Master's Power","At 40% health Gul'dan harnesses the Eye of Aman'Thul to gain new and empowered abilities.","0","0","0","1737","14905","14091","0","2","0","104","0","0"
+"14091","Section 46","","0","211152","0","1737","14093","14092","14090","0","32","105","2","-1"
+"14092","Section 49","","0","209291","0","1737","0","0","14091","1","32","106","2","-1"
+"14093","Section 48","","0","161121","0","1737","14098","0","14090","0","16","107","2","-1"
+"14098","Section 43","","0","212686","0","1737","14099","14232","14090","0","0","108","2","-1"
+"14099","Section 53","","0","227554","0","1737","0","14257","14090","0","1","110","2","-1"
 "14102","Overview","The Maiden of Virtue will place patches of |cFF2959D3|Hspell:227789|h[Sacred Ground]|h|r underneath players which will slowly expand and inflict damage to players who enter.
 
 She will later cast |cFF2959D3|Hspell:227508|h[Mass Repentance]|h|r, which places a stun on the entire group that breaks on damage taken. She then protects herself with |cFF2959D3|Hspell:227817|h[Holy Bulwark]|h|r, which players must damage her to remove, and casts |cFF2959D3|Hspell:227823|h[Holy Wrath]|h|r, which players should interrupt after removing |cFF2959D3|Hspell:227817|h[Holy Bulwark]|h|r.","0","0","0","1825","14106","14103","0","0","0","1","3","-1"
@@ -9831,11 +9819,11 @@ $bullet;Interrupt Coggleston's |cFF2959D3|Hspell:227987|h[Dinner Bell!]|h|r when
 "14152","Dust Cloud [NNF]","","0","228215","0","1827","14153","0","14151","0","0","14","2","-1"
 "14153","Burning Rush [NNF]","","0","228225","0","1827","0","0","14151","0","160","15","2","-1"
 "14164","Section 22","","0","227598","0","1819","0","0","14009","1","32","24","2","-1"
-"14166","Section 23","","0","227598","0","1819","0","0","14014","1","32","41","2","-1"
+"14166","Section 23","","0","227598","0","1819","0","0","14014","1","32","43","2","-1"
 "14167","Section 25","","0","227503","0","1819","0","14017","14016","1","0","17","2","-1"
-"14171","Section 29","","0","227807","0","1819","14176","14172","14003","0","0","48","2","-1"
-"14172","Section 29","","0","227811","0","1819","0","0","14171","0","0","49","2","-1"
-"14176","Section 32","","0","229255","0","1819","14018","0","14003","0","0","50","2","-1"
+"14171","Section 29","","0","227807","0","1819","14176","14172","14003","0","0","50","2","-1"
+"14172","Section 29","","0","227811","0","1819","0","0","14171","0","0","51","2","-1"
+"14176","Section 32","","0","229255","0","1819","14018","0","14003","0","0","52","2","-1"
 "14177","Section 17","","0","228013","0","1827","0","0","14149","0","0","11","2","-1"
 "14178","Section 34","","0","228003","0","1819","14179","0","14005","0","0","7","2","-1"
 "14179","Section 34","","0","228012","0","1819","14180","0","14005","0","0","8","2","-1"
@@ -9849,13 +9837,13 @@ Upon reaching 65% health, Helya departs beneath the sea, assaulting the raid fro
 Helya then orders the last stand of Helheim, invoking both the minions of Helheim and her supernatural powers until her defeat.","0","0","0","1829","14212","14209","0","1","0","1","3","-1"
 "14209","Damage Dealers","$bullet;Maneuver |cFF2959D3|Hspell:227903|h[Orb of Corruption]|h|r and |cFF2959D3|Hspell:228058|h[Orb of Corrosion]|h|r away from raid members if targeted.
 $bullet;Avoid |cFF2959D3|Hspell:227967|h[Bilewater Breath]|h|r and |cFF2959D3|Hspell:228565|h[Corrupted Breath]|h|r, then defeat Bilewater Slimes or absorb |cFF2959D3|Hspell:232450|h[Corrupted Axion]|h|rs.
-$bullet;Help mitigate |cFF2959D3|Hspell:228728|h[Tentacle Strike]|h|rs, as the damage divides amongst all target struck.
+$bullet;Help mitigate |cFF2959D3|Hspell:228728|h[Tentacle Strike]|h|rs, as the damage divides amongst all targets struck.
 $bullet;Defeat Night Watch Mariners before they reach full energy and cast |cFF2959D3|Hspell:228619|h[Lantern of Darkness]|h|r.","0","0","0","1829","14210","0","14208","0","2","2","3","-1"
 "14210","Healers","$bullet;Players targeted by |cFF2959D3|Hspell:227903|h[Orb of Corruption]|h|r and |cFF2959D3|Hspell:228058|h[Orb of Corrosion]|h|r may move out of range, so plan accordingly.
 $bullet;Dispel |cFF2959D3|Hspell:228054|h[Taint of the Sea]|h|r.
 $bullet;|cFF2959D3|Hspell:193367|h[Fetid Rot]|h|r reduces the healing a target receives, declining in potency over time.
 $bullet;Tanks afflicted with |cFF2959D3|Hspell:227982|h[Bilewater Redox]|h|r or |cFF2959D3|Hspell:232488|h[Dark Hatred]|h|r may require coordinated use of damage-reduction abilities.","0","0","0","1829","14211","0","14208","0","4","3","3","-1"
-"14211","Tanks","$bullet;|cFF2959D3|Hspell:227967|h[Bilewater Breath]|h|r and |cFF2959D3|Hspell:228565|h[Corrupted Breath]|h|r follows Helya's current tank target and will apply |cFF2959D3|Hspell:227982|h[Bilewater Redox]|h|r or |cFF2959D3|Hspell:232488|h[Dark Hatred]|h|r, respectively, to all targets within the breath.
+"14211","Tanks","$bullet;|cFF2959D3|Hspell:227967|h[Bilewater Breath]|h|r and |cFF2959D3|Hspell:228565|h[Corrupted Breath]|h|r follow Helya's current tank target and will apply |cFF2959D3|Hspell:227982|h[Bilewater Redox]|h|r or |cFF2959D3|Hspell:232488|h[Dark Hatred]|h|r, respectively, to all targets within the breath.
 $bullet;A Grimelord's |cFF2959D3|Hspell:228519|h[Anchor Slam]|h|r reduces your defenses for a short duration.
 $bullet;|cFF2959D3|Hspell:228032|h[Fury of the Maw]|h|r waves can bring Grimelords and Night Watch Mariners into the battle.
 $bullet;Decaying Minions leave behind |cFF2959D3|Hspell:228121|h[Decay]|h|r when they die, which can be washed away by |cFF2959D3|Hspell:228032|h[Fury of the Maw]|h|r.","0","0","0","1829","0","0","14208","0","1","4","3","-1"
@@ -9866,15 +9854,15 @@ $bullet;Decaying Minions leave behind |cFF2959D3|Hspell:228121|h[Decay]|h|r when
 "14217","Bilewater Slime","","33108","0","0","1829","14541","14218","14216","1","32","10","1","-1"
 "14218","Section 16","","0","227990","0","1829","0","0","14217","1","0","11","2","-1"
 "14222","Stage Two: From the Mists","Upon reaching 65% health, Helya departs beneath the sea, assaulting the raid from afar with her denizens of Helheim or ocean waves from the Maw of Souls. Defeating Helya's tentacles wounds her, causing her to return to the shore.","0","0","0","1829","14224","14270","0","1","0","18","0","-1"
-"14223","Decaying Minion","","66184","0","0","1829","0","14746","14224","0","0","62","1","-1"
+"14223","Decaying Minion","","66184","0","0","1829","0","14744","14224","0","0","63","1","-1"
 "14224","Stage Three: Helheim's Last Stand","Helya orders the last stand of Helheim, invoking both the minions of Helheim and her supernatural powers until her defeat.","0","0","0","1829","0","14225","0","1","0","41","0","-1"
 "14225","Helya","","65043","0","0","1829","14560","14226","14224","1","0","42","1","-1"
 "14226","Section 19","","0","228058","0","1829","14273","14227","14225","0","0","43","2","-1"
 "14227","Section 23","","0","228121","0","1829","14515","0","14226","0","0","44","2","-1"
 "14228","Section 20","","0","228054","0","1829","14539","14229","14213","0","128","15","2","-1"
 "14229","Section 21","","0","228051","0","1829","0","0","14228","0","0","16","2","-1"
-"14231","Section 92","","0","221781","0","1737","0","0","13249","1","0","81","2","-1"
-"14232","Section 93","","0","221781","0","1737","0","0","14098","1","0","93","2","-1"
+"14231","Section 92","","0","221781","0","1737","0","0","13249","1","0","101","2","-1"
+"14232","Section 93","","0","221781","0","1737","0","0","14098","1","0","109","2","-1"
 "14233","Overview","Guarm's |cFF2959D3|Hspell:227573|h[Guardian's Breath]|h|r unleashes three elements: Fire, Nature and Shadow. Guarm gains a stack of |cFF2959D3|Hspell:228174|h[Frothing Rage]|h|r for every player not hit by one of his breath attacks.
 
 Taking damage from |cFF2959D3|Hspell:227573|h[Guardian's Breath]|h|r will result in a debuff: |cFF2959D3|Hspell:227539|h[Fiery Phlegm]|h|r, |cFF2959D3|Hspell:227566|h[Salty Spittle]|h|r or |cFF2959D3|Hspell:227570|h[Dark Discharge]|h|r.  Gaining any two of these is deadly.
@@ -9897,7 +9885,7 @@ $bullet; Move out of Guarm's way when he performs a |cFF2959D3|Hspell:227816|h[H
 "14240","Section 8","","0","228246","0","1830","14241","0","14463","0","128","14","2","-1"
 "14241","Section 9","","0","228250","0","1830","0","0","14463","0","0","15","2","-1"
 "14242","Section 10","","0","227883","0","1830","14243","0","0","0","0","20","2","-1"
-"14243","Section 11","","0","227816","0","1830","0","0","0","0","16","21","2","-1"
+"14243","Section 11","","0","227816","0","1830","0","14935","0","0","16","21","2","-1"
 "14246","Section 14","","0","227539","0","1830","14247","0","14237","0","16","7","2","-1"
 "14247","Section 15","","0","227566","0","1830","14248","0","14237","0","16","8","2","-1"
 "14248","Section 16","","0","227570","0","1830","0","0","14237","0","16","9","2","-1"
@@ -9906,12 +9894,12 @@ $bullet; Move out of Guarm's way when he performs a |cFF2959D3|Hspell:227816|h[H
 "14251","Section 37","","0","228030","0","1819","14206","0","14006","0","0","12","2","-1"
 "14252","Section 41","","0","228171","0","1819","0","0","14006","0","32","15","2","-1"
 "14253","Section 18","","0","228174","0","1830","14246","0","14237","0","0","6","2","-1"
-"14254","Section 97","","0","227556","0","1737","0","0","14074","1","33","39","2","-1"
-"14255","Section 96","","0","227556","0","1737","0","0","13498","1","33","71","2","-1"
-"14256","Section 95","","0","227556","0","1737","0","0","13988","1","33","83","2","-1"
-"14257","Section 94","","0","227556","0","1737","0","0","14099","1","33","95","2","-1"
+"14254","Section 97","","0","227556","0","1737","0","0","14074","1","33","59","2","-1"
+"14255","Section 96","","0","227556","0","1737","0","0","13498","1","33","91","2","-1"
+"14256","Section 95","","0","227556","0","1737","0","0","13988","1","33","103","2","-1"
+"14257","Section 94","","0","227556","0","1737","0","0","14099","1","33","111","2","-1"
 "14258","Section 7","","0","228269","0","1817","14267","0","14036","0","32","10","2","-1"
-"14259","Section 24","","0","228121","0","1829","14772","0","14223","1","0","64","2","-1"
+"14259","Section 24","","0","228121","0","1829","14774","0","14223","1","0","65","2","-1"
 "14263","Grimelord","","73393","0","0","1829","14278","14264","14222","0","0","25","1","-1"
 "14264","Section 28","","0","228390","0","1829","14265","0","14263","0","0","26","2","-1"
 "14265","Section 29","$[16
@@ -9925,8 +9913,10 @@ In this difficulty, Fetid Rot spreads every period.$]","0","193367","0","1829","
 "14271","Section 32","","0","228032","0","1829","14334","14542","14270","0","0","20","2","-1"
 "14273","Section 20","","0","228054","0","1829","14276","14274","14225","0","128","46","2","-1"
 "14274","Section 21","","0","228051","0","1829","0","0","14273","0","0","47","2","-1"
-"14276","Section 30","","0","228565","0","1829","14277","14584","14225","0","0","48","2","-1"
-"14277","Section 38","","0","228032","0","1829","14540","14543","14225","0","0","51","2","-1"
+"14276","Section 30","$[15,16
+
+In this difficulty, this creates several Corrupted Axions.$]","0","228565","0","1829","14277","14584","14225","0","0","48","2","-1"
+"14277","Section 38","","0","228032","0","1829","14540","14543","14225","0","0","52","2","-1"
 "14278","Night Watch Mariner","","73462","0","0","1829","14544","14283","14222","0","0","30","1","-1"
 "14281","Section 41","","0","228631","0","1829","0","0","14278","0","0","33","2","-1"
 "14282","Section 43","","0","228611","0","1829","14281","0","14278","0","1","32","2","-1"
@@ -9950,8 +9940,8 @@ $bullet;You will need to stand by your tank to help them survive |cFF2959D3|Hspe
 "14306","Section 10","","0","227493","0","1835","14335","0","14304","0","5","11","2","-1"
 "14307","Section 18","","0","228729","0","1827","14145","0","0","1","32","5","2","-1"
 "14309","Gripping Tentacle","Helya grips the landmass, allowing her to command the waves of the sea and attack players from relative safety. Defeating these wound her, eventually forcing her back ashore.","73534","0","0","1829","0","0","14270","0","0","24","1","-1"
-"14311","Decaying Minion","","66184","0","0","1829","0","14745","14222","0","0","37","1","-1"
-"14312","Section 24","","0","228121","0","1829","14771","0","14311","1","0","39","2","-1"
+"14311","Decaying Minion","","66184","0","0","1829","0","14743","14222","0","0","37","1","-1"
+"14312","Section 24","","0","228121","0","1829","14773","0","14311","1","0","39","2","-1"
 "14318","Overview","The Curator loses mana as it casts spells to strike its foes. When it reaches 10% mana, it will cease attacking and rapidly regenerate its mana. While it does so, it is very vulnerable to player attacks.","0","0","0","1836","14323","14319","0","0","0","1","3","-1"
 "14319","Tanks","$bullet;The Curator targets you with |cFF2959D3|Hspell:227465|h[Power Discharge]|h|r. Place damaging area effects strategically.","0","0","0","1836","14320","0","14318","0","1","2","3","-1"
 "14320","Damage Dealers","$bullet;Focus fire Volatile Energy before its |cFF2959D3|Hspell:227270|h[Arc Lightning]|h|r becomes unmanageable for healers.
@@ -9975,7 +9965,7 @@ $bullet;The Curator is at its most vulnerable when it casts |cFF2959D3|Hspell:22
 "14341","Section 28","","0","227781","0","1819","0","0","14340","1","0","32","2","-1"
 "14342","Runic Brand","","0","227503","442743","1819","0","14343","14336","0","0","34","2","-1"
 "14343","Section 14","","0","227629","0","1819","14394","0","14342","2","16","35","2","0"
-"14346","Section 44","","0","228914","0","1819","14495","0","14003","0","1","44","2","-1"
+"14346","Section 44","","0","228914","0","1819","14495","0","14003","0","1","46","2","-1"
 "14347","Section 44","","0","221419","0","1704","0","0","12779","2","0","19","2","0"
 "14349","Section 10","","0","228991","0","1817","14269","0","14268","0","64","13","2","-1"
 "14350","Overview","Medivh assaults players with |cFF2959D3|Hspell:227628|h[Piercing Missiles]|h|r, |cFF2959D3|Hspell:227615|h[Inferno Bolt]|h|r and |cFF2959D3|Hspell:227592|h[Frostbite]|h|r until he reaches full mana. Once he has reached full mana he uses one of his Focused Power abilities.
@@ -10017,27 +10007,27 @@ $bullet;Use |cFF2959D3|Hspell:227909|h[Ghost Traps]|h|r on Moroes' dinner guests
 "14378","Lord Crispin Ference","","73199","0","0","1837","0","14379","14365","0","1","25","1","-1"
 "14379","Section 24","","0","227672","0","1837","0","0","14378","0","1","26","2","-1"
 "14392","Section 9","","0","223599","0","1796","0","0","0","0","0","9","2","-1"
-"14394","Section 40","","0","229644","0","1819","14401","0","14342","2","16","36","2","0"
+"14394","Section 40","","0","229644","0","1819","14692","0","14342","2","16","36","2","0"
 "14396","Section 42","","0","229644","0","1819","14397","0","14167","2","16","19","2","0"
 "14397","Valarjar Runebearer","As Odyn begins Draw Power, 5 Valarjar Runebearers leap into combat. Slaying a Valarjar Runebearer on its corresponding rune disables that rune, preventing it from empowering Odyn's Unerring Blast.","67274","0","0","1819","14400","14398","14167","3","0","20","1","0"
 "14398","Section 22","","0","227598","0","1819","0","0","14397","1","32","21","2","-1"
-"14399","Section 45","","0","229584","0","1819","14014","0","14342","2","4128","39","2","0"
+"14399","Section 45","","0","229584","0","1819","14014","0","14342","2","4128","41","2","0"
 "14400","Section 45","","0","229584","0","1819","14009","0","14167","2","4128","22","2","0"
-"14401","Valarjar Runebearer","As Odyn begins Draw Power, 5 Valarjar Runebearers leap into combat. Slaying a Valarjar Runebearer on its corresponding rune disables that rune, preventing it from empowering Odyn's Unerring Blast.","67274","0","0","1819","14399","14402","14342","2","0","37","1","0"
-"14402","Section 23","","0","227598","0","1819","0","0","14401","1","32","38","2","-1"
+"14401","Valarjar Runebearer","As Odyn begins Draw Power, 3 Valarjar Runebearers leap into combat. Slaying a Valarjar Runebearer on its corresponding rune disables that rune, preventing it from empowering Odyn's Unerring Blast.","67274","0","0","1819","14399","14402","14342","2","0","39","1","0"
+"14402","Section 23","","0","227598","0","1819","0","0","14401","1","32","40","2","-1"
 "14404","Test of the Ages","Periodically, Hymdall and Hyrja leap into the arena, engaging the players in battle.
 
 Bringing them to 85% health causes them to exit the arena until called upon again.","0","0","1394957","1819","14336","14464","14010","3","32","26","2","0"
-"14405","Section 22","","0","219808","0","1725","0","0","13022","0","1","20","2","-1"
+"14405","Section 22","","0","219808","0","1725","0","0","13022","0","1","21","2","-1"
 "14406","Section 32","","0","229738","0","1743","13225","0","0","0","4","7","2","-1"
-"14408","Overview","Upon reaching 66% and 33% health, Viz'aduum the Watcher will open a|cFF2959D3|Hspell:229610|h[Demonic Portal]|h|r to retreat to a nearby Legion Command Ship.","0","0","0","1838","14412","14410","0","0","0","1","3","-1"
+"14408","Overview","Upon reaching 66% and 33% health, Viz'aduum the Watcher will open a |cFF2959D3|Hspell:229610|h[Demonic Portal]|h|r to retreat to a nearby Legion Command Ship.","0","0","0","1838","14412","14410","0","0","0","1","3","-1"
 "14409","Healers","$bullet;During the initial phase, lead the |cFF2959D3|Hspell:229242|h[Fel Beam]|h|r away from your allies.
 $bullet;Avoid taking damage from the Legion Command Ship's |cFF2959D3|Hspell:229284|h[Bombardment]|h|r.
 $bullet;While on a Legion Command Ship, avoid being knocked off by |cFF2959D3|Hspell:229151|h[Disintegrate]|h|r.","0","0","0","1838","14411","0","14408","0","4","3","3","-1"
 "14410","Damage Dealers","$bullet;During the initial phase, lead the |cFF2959D3|Hspell:229242|h[Fel Beam]|h|r away from your allies.
 $bullet;Avoid taking damage from the Legion Command Ship's |cFF2959D3|Hspell:229284|h[Bombardment]|h|r.
 $bullet;While on a Legion Command Ship, avoid being knocked off by |cFF2959D3|Hspell:229151|h[Disintegrate]|h|r.
-$bullet;In the final phase prevent |cFF2959D3|Hspell:230084|h[Stabalize Rift]|h|r from completing.","0","0","0","1838","14409","0","14408","0","2","2","3","-1"
+$bullet;In the final phase, prevent |cFF2959D3|Hspell:230084|h[Stabilize Rift]|h|r from completing.","0","0","0","1838","14409","0","14408","0","2","2","3","-1"
 "14411","Tanks","$bullet;Avoid taking damage from the Legion Command Ship's |cFF2959D3|Hspell:229284|h[Bombardment]|h|r.
 $bullet;While on a Legion Command Ship, avoid being knocked off by |cFF2959D3|Hspell:229151|h[Disintegrate]|h|r.
 $bullet;In the final phase prevent |cFF2959D3|Hspell:230084|h[Stabalize Rift]|h|r from completing.","0","0","0","1838","0","0","14408","0","1","4","3","-1"
@@ -10106,9 +10096,9 @@ In addition, this effect creates Plasma Spheres when it expires.","0","0","13873
 "14490","Call of Night","Arcanist Tel'arn marks several players with Nightwell energy for $218809d. Marked players inflict $218838s1 Arcane damage to all players within $218838A1 yards if they are ever within $218820A1 yards of another marked player or if they aren't within $218820A1 yards of at least one unmarked player. In addition, this effect periodically summons Toxic Spores.","0","0","135752","1761","0","0","14475","0","0","68","2","-1"
 "14491","Section 66","","0","223437","0","1761","14501","0","14469","0","0","47","2","-1"
 "14492","Toxic Spores","Naturalist Tel'arn shoots $219233s1 Toxic Spores at a random player's location that persist for $219231d. If any player comes into contact with the spore it bursts, inflicting $219235s1 Nature damage to them every $219235t1 sec for $219235d. In addition a Solar Collapse occurs at the target's location when Toxic Spores is cast.","0","0","134220","1761","14507","0","14474","0","0","61","2","-1"
-"14493","Section 50","","0","231355","0","1819","0","14494","14495","2","4096","46","2","0"
-"14494","Section 51","","0","231357","0","1819","0","0","14493","2","4096","47","2","0"
-"14495","Section 51","","0","231297","0","1819","14171","14493","14003","2","4096","45","2","0"
+"14493","Section 50","","0","231355","0","1819","0","14494","14495","2","4096","48","2","0"
+"14494","Section 51","","0","231357","0","1819","0","0","14493","2","4096","49","2","0"
+"14495","Section 51","","0","231297","0","1819","14171","14493","14003","2","4096","47","2","0"
 "14496","Summon Plasma Spheres","Solarist Tel'arn summons 3 Plasma Spheres that cause a Plasma Explosion upon death, creating Parasitic Lashers at its location.
 
 Plasma Spheres slowly immolate, losing $218520s1% of their maximum health every $218520t1 sec.","0","0","525024","1761","0","14513","14476","0","0","72","2","-1"
@@ -10155,21 +10145,21 @@ When Parasitic Fetter is removed a Controlled Chaos occurs and Parasitic Lashers
 "14537","Section 20","","0","228810","0","1830","14538","0","14535","0","4224","18","2","-1"
 "14538","Section 21","","0","228818","0","1830","0","0","14535","0","4224","19","2","-1"
 "14539","Section 46","","0","228872","0","1829","0","0","14213","0","0","17","2","-1"
-"14540","Section 47","","0","228872","0","1829","0","0","14225","0","0","53","2","-1"
+"14540","Section 47","","0","228872","0","1829","0","0","14225","0","0","54","2","-1"
 "14541","Section 48","","0","227982","0","1829","0","0","14216","1","1","12","2","-1"
 "14542","Section 49","","0","201119","0","1829","0","0","14271","1","0","21","2","-1"
-"14543","Section 50","","0","201119","0","1829","0","0","14277","1","0","52","2","-1"
-"14544","Helarjer Mistcaller","","73469","0","0","1829","14311","14545","14222","2","4096","34","1","0"
+"14543","Section 50","","0","201119","0","1829","0","0","14277","1","0","53","2","-1"
+"14544","Helarjar Mistwatcher","","73469","0","0","1829","14311","14545","14222","2","4096","34","1","0"
 "14545","Section 53","","0","228854","0","1829","14546","0","14544","0","96","35","2","-1"
 "14546","Section 52","","0","231862","0","1829","0","0","14544","0","0","36","2","-1"
-"14547","Helarjar Mistwatcher","","73469","0","0","1829","14223","14548","14224","2","4096","59","1","0"
-"14548","Section 53","","0","228854","0","1829","14549","0","14547","0","96","60","2","-1"
-"14549","Section 52","","0","231862","0","1829","0","0","14547","0","0","61","2","-1"
+"14547","Helarjar Mistwatcher","","73469","0","0","1829","14223","14548","14224","2","4096","60","1","0"
+"14548","Section 53","","0","228854","0","1829","14549","0","14547","0","96","61","2","-1"
+"14549","Section 52","","0","231862","0","1829","0","0","14547","0","0","62","2","-1"
 "14550","Wikket Bond","Damage dealt is shared between Elfyra and Galindre.","0","0","1337422","1820","14020","0","0","0","0","5","2","-1"
-"14560","Night Watch Mariner","","73462","0","0","1829","14547","14561","14224","0","0","54","1","-1"
-"14561","Section 42","","0","228619","0","1829","14562","0","14560","0","16","55","2","-1"
-"14562","Section 43","","0","228611","0","1829","14563","0","14560","0","1","56","2","-1"
-"14563","Section 41","","0","228631","0","1829","14583","0","14560","0","0","57","2","-1"
+"14560","Night Watch Mariner","","73462","0","0","1829","14547","14561","14224","0","0","55","1","-1"
+"14561","Section 42","","0","228619","0","1829","14562","0","14560","0","16","56","2","-1"
+"14562","Section 43","","0","228611","0","1829","14563","0","14560","0","1","57","2","-1"
+"14563","Section 41","","0","228631","0","1829","14583","0","14560","0","0","58","2","-1"
 "14564","Section 19","","0","232156","0","1827","14143","0","14142","1","32","17","2","-1"
 "14565","Section 20","","0","232153","0","1827","0","14566","14142","1","0","20","2","-1"
 "14566","Silver Forks","Bloody forks... who would have imagined?","74244","0","0","1827","0","14567","14565","0","0","21","1","-1"
@@ -10177,15 +10167,113 @@ When Parasitic Fetter is removed a Controlled Chaos occurs and Parasitic Lashers
 "14568","Section 23","","0","232142","0","1827","0","0","14566","0","0","23","2","-1"
 "14569","Avatar of Shadow","When Cordana Shadowsteps away, an Avatar of Shadow is summoned. The Avatar of Shadow will steal Elune's Light, disabling the light until the Avatar of Shadow is defeated.","67618","0","0","1470","0","0","12406","0","32","13","1","-1"
 "14570","Section 61","","0","158534","0","1829","0","0","14265","3","4128","28","2","0"
-"14583","Section 62","","0","232346","0","1829","0","0","14560","0","0","58","2","-1"
-"14584","Section 61","","0","232450","0","1829","0","14585","14276","3","32","49","2","0"
+"14583","Section 62","","0","232346","0","1829","0","0","14560","0","0","59","2","-1"
+"14584","Section 61","","0","232450","0","1829","14586","14585","14276","3","32","49","2","0"
 "14585","Section 62","","0","232350","0","1829","0","0","14584","3","4096","50","2","0"
+"14586","Section 63","","0","232488","0","1829","0","0","14276","1","0","51","2","-1"
+"14659","Overview","Grand Magistrix Elisande harness the power of the Nightwell to shape time itself. When her health is low and she is nearing defeat, she rewinds time to send players back to the point at which they first engaged her. The fight recommences from this point, but Elisande uses new abilities mixed in with echoes of her past actions. She can perform this feat twice, after which time can no longer save her.","0","0","0","1872","14663","14660","0","0","0","1","3","-1"
+"14660","Damage Dealers","$bullet;|cFF2959D3|Hspell:210022|h[Epocheric Orb]|h|r damages the entire raid if allowed to strike the ground.
+$bullet;Expedient Elementals continually damage the raid with |cFF2959D3|Hspell:209568|h[Exothermic Release]|h|r until they are dispatched. This damage increases with each successful cast.
+$bullet;Recursive Elementals |cFF2959D3|Hspell:221863|h[Shield]|h|r Grand Magistrix Elisande as long as they are alive.","0","0","0","1872","14661","0","14659","0","2","2","3","-1"
+"14661","Healers","$bullet;|cFF2959D3|Hspell:210022|h[Epocheric Orb]|h|r damages the entire raid if allowed to strike the ground.
+$bullet;|cFF2959D3|Hspell:229738|h[Cascadent Star]|h|r will damage a large portion of the raid.","0","0","0","1872","14662","0","14659","0","4","3","3","-1"
+"14662","Tanks","$bullet;In each time layer, Elisande employs a different ability to threaten tanks.
+$bullet;|cFF2959D3|Hspell:209973|h[Ablating Explosion]|h|r inflicts falloff damage to the entire raid when it expires.
+$bullet;Interrupt |cFF2959D3|Hspell:209971|h[Ablative Pulse]|h|r.","0","0","0","1872","0","0","14659","0","1","4","3","-1"
+"14663","Section 27","","0","208944","0","1872","14664","0","0","0","32","5","2","-1"
+"14664","Section 32","","0","229738","0","1872","14665","0","0","0","4","6","2","-1"
+"14665","Time Elementals","Grand Magistrix periodically summons Time Elementals to aid her in combat. When these elementals are dispatched they leave behind a rift that persists until they are consumed.","0","0","0","1872","14673","14666","0","0","0","7","0","-1"
+"14666","Recursive Elemental","When this elemental dies it leaves behind a zone of Slow Time.","55144","0","0","1872","14670","14667","14665","0","0","8","1","-1"
+"14667","Section 29","","0","221863","0","1872","14668","0","14666","0","2","9","2","-1"
+"14668","Section 28","","0","221864","0","1872","14669","0","14666","0","64","10","2","-1"
+"14669","Inexorant","","0","209165","0","1872","0","0","14666","0","32","11","2","-1"
+"14670","Expedient Elemental","When this elemental dies it leaves behind a zone of  Fast Time.","55142","0","0","1872","0","14671","14665","0","0","12","1","-1"
+"14671","Burst","","0","209568","0","1872","14672","0","14670","0","68","13","2","-1"
+"14672","Section 22","","0","209166","0","1872","0","0","14670","0","32","14","2","-1"
+"14673","Time Layer 1","While in this Time Layer Grand Magistrix Elisande will use her |cFF2959D3|Hspell:209168|hSpanning Singularity|h|r and |cFF2959D3|Hspell:208807|hArcanetic Ring|h|r abilities.","0","0","0","1872","14677","14674","0","0","0","15","0","-1"
+"14674","Section 6","$[14,15,16,17
+
+This ability echoes.$]
+$[16
+
+In Mythic Difficulty, the Arcanetic Ring expands to the outside of the room after collapsing.$]","0","228877","0","1872","14675","0","14673","0","16","16","2","-1"
+"14675","Section 10","$[14,15,16,17
+
+Spanning Singularities appear at the same time and place in successive Time Layers.$]","0","209168","0","1872","14676","0","14673","0","32","17","2","-1"
+"14676","Section 23","","0","209615","0","1872","0","0","14673","0","1","18","2","-1"
+"14677","Time Layer 2","While in this Time Layer Grand Magistrix Elisande will use her |cFF2959D3|Hspell:210022|hEpocheric Orb|h|r ability.","0","0","0","1872","14680","14678","0","0","0","19","0","-1"
+"14678","Epochera","$[14,15,16,17
+
+This ability echoes.$]
+$[16
+
+In Mythic difficulty, players catching the Orbs are afflicted with Epocheric Vulnerability.$]","0","210022","0","1872","14679","0","14677","0","16","20","2","-1"
+"14679","Section 23","","0","209973","0","1872","0","0","14677","0","1","21","2","-1"
+"14680","Time Layer 3","While in this Time Layer Grand Magistrix Elisande will use her |cFF2959D3|Hspell:209242|hDelphuric Beam|h|r ability.","0","0","0","1872","0","14681","0","0","0","22","0","-1"
+"14681","Section 23","","0","209971","0","1872","14682","0","14680","0","65","23","2","-1"
+"14682","Section 12","$[16
+
+This ability echoes in Mythic difficulty, and the beam continues through the target rather than stopping at the target.$]","0","214278","0","1872","0","0","14680","0","32","24","2","-1"
 "14683","Section 31","","0","213781","236271","1744","0","0","13266","0","0","21","2","-1"
 "14684","Section 26","","0","229161","631519","1838","0","0","14415","0","128","9","2","-1"
 "14685","Section 27","","0","229161","0","1838","0","0","14421","0","128","16","2","-1"
 "14686","Section 28","","0","229161","0","1838","0","0","14426","0","128","23","2","-1"
-"14745","Section 64","","0","202476","0","1829","14312","0","14311","1","0","38","2","-1"
-"14746","Section 65","","0","202476","0","1829","14259","0","14223","1","0","63","2","-1"
-"14771","Section 66","","0","203816","0","1829","0","0","14311","0","0","40","2","-1"
-"14772","Section 67","","0","203816","0","1829","0","0","14223","0","0","65","2","-1"
+"14692","Valarjar Runebearer","As Odyn begins Draw Power, 5 Valarjar Runebearers leap into combat. Slaying a Valarjar Runebearer on its corresponding rune disables that rune, preventing it from empowering Odyn's Unerring Blast.","67274","0","0","1819","14401","14693","14342","2","0","37","1","0"
+"14693","Section 23","","0","227598","0","1819","0","0","14692","1","32","38","2","-1"
+"14721","Fragmented Time Particle","Fragmented Time Particles continually Warp the Nightwell until they are defeated.","55561","0","0","1725","0","0","13286","0","0","20","1","-1"
+"14743","Section 64","","0","202476","0","1829","14312","0","14311","1","0","38","2","-1"
+"14744","Section 65","","0","202476","0","1829","14259","0","14223","1","0","64","2","-1"
+"14773","Section 66","","0","203816","0","1829","0","0","14311","0","0","40","2","-1"
+"14774","Section 67","","0","203816","0","1829","0","0","14223","0","0","66","2","-1"
 "14817","Section 26","","0","233669","0","1837","14366","0","14365","0","32","12","2","-1"
+"14880","Damage Dealers","$bullet;Use |cFF2959D3|Hspell:210339|h[Time Dilation]|h|r to increase damage at opportune moments or cover distances quickly.
+$bullet;Assist |cFF2959D3|Hspell:206222|h[Bonds of Fel]|h|r-afflicted allies in order to reduce the damage to manageable levels.
+$bullet;Move away from others when afflicted with |cFF2959D3|Hspell:209270|h[Eye of Gul'dan]|h|r or |cFF2959D3|Hspell:211152|h[Empowered Eye of Gul'dan]|h|r.
+$bullet;Absorb |cFF2959D3|Hspell:208802|h[Soul Corrosion]|h|r inside the |cFF2959D3|Hspell:206939|h[Well of Souls]|h|r in order to reduce raidwide damage taken from |cFF2959D3|Hspell:206744|h[Black Harvest]|h|r.","0","0","0","1737","14881","0","13107","2","2","3","3","0"
+"14881","Damage Dealers","$bullet;Use |cFF2959D3|Hspell:210339|h[Time Dilation]|h|r to increase damage at opportune moments or cover distances quickly.
+$bullet;Interrupt |cFF2959D3|Hspell:208672|h[Carrion Wave]|h|r.
+$bullet;Assist |cFF2959D3|Hspell:206222|h[Bonds of Fel]|h|r-afflicted allies in order to reduce the damage to manageable levels.
+$bullet;Absorb |cFF2959D3|Hspell:208802|h[Soul Corrosion]|h|r inside the |cFF2959D3|Hspell:206939|h[Well of Souls]|h|r in order to reduce raidwide damage taken from |cFF2959D3|Hspell:206744|h[Black Harvest]|h|r.","0","0","0","1737","13109","0","13107","2","2","4","3","0"
+"14882","Healers","$bullet;Use |cFF2959D3|Hspell:217830|h[Scattering Field]|h|r to absorb nearby allies' Fire damage taken at opportune moments.
+$bullet;Fel Lord Kuraz'mal's |cFF2959D3|Hspell:206675|h[Shatter Essence]|h|r inflicts high damage.
+$bullet;Assist |cFF2959D3|Hspell:206222|h[Bonds of Fel]|h|r-afflicted allies in order to reduce the damage to manageable levels.
+$bullet;|cFF2959D3|Hspell:206744|h[Black Harvest]|h|r inflicts high raidwide damage.","0","0","0","1737","14883","0","13107","2","4","6","3","0"
+"14883","Healers","$bullet;Use |cFF2959D3|Hspell:217830|h[Scattering Field]|h|r to absorb nearby allies' Fire damage taken at opportune moments.
+$bullet;Coordinate use of damage-reduction abilities to help tanks with Fel Lord Kuraz'mal's |cFF2959D3|Hspell:206675|h[Shatter Essence]|h|r.
+$bullet;Dispel Inquisitor Vethriz's |cFF2959D3|Hspell:212568|h[Drain]|h|r.
+$bullet;|cFF2959D3|Hspell:206744|h[Black Harvest]|h|r inflicts high raidwide damage.","0","0","0","1737","14884","0","13107","2","4","7","3","0"
+"14884","Tanks","$bullet;While fighting Fel Lord Kuraz'mal, be prepared for |cFF2959D3|Hspell:206675|h[Shatter Essence]|h|r.
+$bullet;D'zorykx the Trapper will throw |cFF2959D3|Hspell:206883|h[Soul Vortex]|h|r at his current target, increasing their damage taken.","0","0","0","1737","13110","0","13107","2","1","8","3","0"
+"14885","Stage One: The Council of Elders","Gul'dan locks himself inside the active Eye of Aman'Thul, summoning his demonic lieutenants. However, proximity to the active Eye of Aman'thul bestows equally powerful abilities to players, based on their role.","0","0","0","1737","14062","14886","0","2","0","25","0","0"
+"14886","Essence of Aman'Thul","","0","0","0","1737","14890","14887","14885","1","0","26","0","-1"
+"14887","Section 49","","0","210339","0","1737","14888","0","14886","0","2","27","2","-1"
+"14888","Section 51","","0","217830","0","1737","14889","0","14886","0","4","28","2","-1"
+"14889","Section 50","","0","210296","0","1737","0","0","14886","0","1","29","2","-1"
+"14890","Gul'dan","","68500","0","0","1737","0","14891","14885","1","0","30","1","-1"
+"14891","Section 10","","0","206219","0","1737","14892","0","14890","0","0","31","2","-1"
+"14892","Section 43","","0","206514","0","1737","14893","0","14890","0","0","32","2","-1"
+"14893","Section 23","","0","212256","0","1737","0","14894","14890","0","33","33","2","-1"
+"14894","Fel Lord Kuraz'mal","","68627","0","0","1737","14897","14895","14893","0","1","34","1","-1"
+"14895","Section 14","","0","206675","0","1737","14896","0","14894","0","17","35","2","-1"
+"14896","Section 45","","0","206875","0","1737","0","0","14894","0","1","36","2","-1"
+"14897","Inquisitor Vethriz","","68625","0","0","1737","14902","14898","14893","0","0","37","1","-1"
+"14898","Section 19","","0","206840","0","1737","14899","0","14897","0","0","38","2","-1"
+"14899","Section 44","","0","212568","0","1737","14900","0","14897","0","128","39","2","-1"
+"14900","Section 16","","0","207006","0","1737","14901","0","14897","0","0","40","2","-1"
+"14901","Section 18","","0","207938","0","1737","0","0","14897","0","0","41","2","-1"
+"14902","D'zorykx the Trapper","","68626","0","0","1737","0","14903","14893","0","1","42","1","-1"
+"14903","Section 20","","0","206883","0","1737","14904","0","14902","0","0","43","2","-1"
+"14904","Section 22","","0","208545","0","1737","0","0","14902","0","0","44","2","-1"
+"14905","Stage Three: The Master's Power","At 40% health Gul'dan harnesses the Eye of Aman'Thul to gain new and empowered abilities, also disrupting the powers that players received from the Eye.","0","0","0","1737","0","14906","0","2","0","112","0","0"
+"14906","Section 46","","0","211152","0","1737","14908","14907","14905","0","32","113","2","-1"
+"14907","Section 49","","0","209291","0","1737","0","0","14906","1","32","114","2","-1"
+"14908","Section 48","","0","161121","0","1737","14909","0","14905","0","16","115","2","-1"
+"14909","Section 49","","0","206939","0","1737","14913","14910","14905","0","0","116","2","-1"
+"14910","Section 52","","0","221891","0","1737","14911","0","14909","0","4","117","2","-1"
+"14911","Section 50","","0","208802","0","1737","14912","0","14909","0","32","118","2","-1"
+"14912","Section 51","","0","206744","0","1737","0","0","14909","0","16","119","2","-1"
+"14913","Section 43","","0","212686","0","1737","14915","14914","14905","0","0","120","2","-1"
+"14914","Section 93","","0","221781","0","1737","0","0","14913","1","0","121","2","-1"
+"14915","Section 53","","0","227554","0","1737","0","14916","14905","0","1","122","2","-1"
+"14916","Section 94","","0","227556","0","1737","0","0","14915","1","33","123","2","-1"
+"14935","Section 22","","0","229480","0","1830","0","0","14243","0","16","22","2","-1"

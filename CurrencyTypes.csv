@@ -76,7 +76,7 @@ Id,Unknown0,Unknown1_0,Unknown1_1,Unknown2,Unknown3,Unknown4,Unknown5,Unknown6,U
 "1149","Sightless Eye","achievement_reputation_kirintor_offensive","","5000","0","2","A rough, hand-minted coin. It bears a symbol similar to that of the Kirin Tor, with one key difference: the eye is closed.","141","0","1","0"
 "1154","Shadowy Coins","archaeology_5_0_mogucoin","","500","0","0","Prized by pickpockets and marks alike. Can be spent in the Underbelly below Dalaran.","141","0","3","0"
 "1155","Ancient Mana","inv_misc_ancient_mana","","300","0","2359298","Concentrated magic from the ancient leylines beneath Suramar.","141","0","1","0"
-"1166","Timewarped Badge","pvecurrency-justice","","0","0","8194","Earned in Timewalking dungeons. Spend at vendors in Dalaran, Orgrimmar, Shattrath or Stormwind.","22","0","3","0"
+"1166","Timewarped Badge","pvecurrency-justice","","0","0","8194","Earned in Timewalking dungeons. Exchanged for goods from Timewalking Vendors in capitol cities.","22","0","3","0"
 "1171","Artifact Knowledge","inv_scroll_11","","0","0","541760","Increases the rate at which you earn Artifact Power.","142","0","6","0"
 "1172","Highborne Archaeology Fragment","trade_archaeology_highborne_artifactfragment","","200","0","34","","82","51","1","1"
 "1173","Highmountain Tauren Archaeology Fragment","trade_archaeology_highborne_artifactfragment","","200","0","34","","82","52","1","1"
@@ -87,4 +87,11 @@ Id,Unknown0,Unknown1_0,Unknown1_1,Unknown2,Unknown3,Unknown4,Unknown5,Unknown6,U
 "1268","Timeworn Artifact","inv_ashran_artifact","","100000","0","8202","A mysterious naga artifact from the depths of the Great Sea. King Mrgl-Mrgl is looking for these at Timeworn Strand.","141","0","1","0"
 "1273","Seal of Broken Fate","inv_misc_elvencoins","","6","0","16386","Twists fate to provide an opportunity for additional treasure from Legion raid and Mythic dungeon bosses.","141","0","1","0"
 "1275","Curious Coin","inv_misc_elvencoins","","0","0","16386","This unusual coin is warm to the touch and vibrates gently in your hand. Used to procure items from Xur'ios in Dalaran.","141","0","4","0"
-"1314","Lingering Soul Fragment","spell_warlock_demonsoul","","80","10","66","Soul fragment once belonging to a powerful enemy.","142","0","3","0"
+"1299","Brawler's Gold","inv_misc_coin_17","","5000","0","2","Awarded to victors of the Brawler's Guild. Use it to purchase Rumble Cards and other world-altering items at the Brawler's Gold Exchange vendor.","141","0","1","0"
+"1314","Lingering Soul Fragment","spell_warlock_demonsoul","","80","10","2097218","Soul fragment once belonging to a powerful enemy.","141","0","3","0"
+"1324","Horde Qiraji Credit","inv_misc_tournaments_banner_orc","","0","0","1638400","Completing this quest will grant the Horde credit in the Ahn'Qiraj Rememberance event.
+
+The faction which earns the most credit today may hang their banners by the Scarab Gong for the rest of the year.","142","0","1","0"
+"1325","Alliance Qiraji Credit","inv_misc_tournaments_banner_human","","0","0","1638400","Completing this quest will grant the Alliance credit in the Ahn'Qiraj Rememberance event.
+
+The faction which earns the most credit today may hang their banners by the Scarab Gong for the rest of the year.","142","0","1","0"

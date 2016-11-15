@@ -13550,7 +13550,14 @@ transAngle = angle
 transMag = (progress * 2) - 1
 transMag = (1 - (transMag * transMag)) * maxMagnitude
 transRight = (1+3*rand3) * sin(time * 2 * 360) * ( 1 - progress ) * 2","0","1"
-"3648","REUSE - MRN","","0","1"
+"3648","Helheim Raid - Helya - Turbulent Waters Missile - KJD","local function parabola(a,b,m) return (4*m*((1-progress)*a)*((progress)*b)) end
+
+local height = 18
+local variance = 2
+height = height + (rand1 * variance)
+
+transUp = parabola(1,1,height)
+modelPitch = -180","0","1"
 "3649","Phoenix Bolt","local progressMult = sin(progress*180)*(1-progress)*2
 
 local t1 = (time/15 + rand1) * 360
@@ -16455,6 +16462,12 @@ scale = 1+progress + .01
 if (progress > 0.75) then
 	scale = scale + 1.5*(progress-0.75)
 end","0","1"
+"3883","7.1.5 Holiday - Dinosaurs - Zavas - Summon Larva","local waveHeight = .5 * (startDistance / 30)
+local wavesPerSec = 2 * (.8 + (.4 * rand2))
+
+scale=math.max(progress/4,0.1)
+transRight = ((waveHeight * sin((time + rand1) * wavesPerSec * 360)) * sin(progress * 180)) 
+transFront=sin(progress)","0","0"
 "2524","Parabola (-90 Pitch)","local angle = 0
 local maxMagnitude = startDistance * .15
 modelPitch = -90

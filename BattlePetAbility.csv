@@ -289,7 +289,7 @@ A swarm of flies attacks the enemy's active pet, dealing [StandardDamage(1,1,231
 
 Deals [StandardDamage(1,1)] [School()] damage and has a [accuracy(1,3)]% chance to transform the target into a frog for [duration(1,3)] |4round:rounds;.
  
-Damage increases by [FormatDamage(5*AttackBonus())] each time it is used. Max [FormatDamage(25 *AttackBonus())] [School()] damage.","0","8","0","1"
+Damage increases by [FormatDamage(10*AttackBonus())] each time it is used. Max [FormatDamage(30 *AttackBonus())] [School()] damage.","0","8","0","1"
 "234","319458","Jacob's Test Aura 2","Every time you are damaged, you will heal for [points(getProcIndex(PROC_ON_DAMAGE_TAKEN), 1)]% of that damage. Every time you attack, you will take [points(getProcIndex(PROC_ON_DAMAGE_DEALT), 1)]% of that damage.","0","-1","0","0"
 "235","136072","Jacob's Test Aura 3","Lasts forever increasing speed.","0","-1","0","0"
 "236","618973","Critter","|cFFFFFFFFPassive:|r
@@ -1215,7 +1215,7 @@ While recharging, you cannot perform any other actions.","0","5","0","5"
 
 Deals [StandardDamage(1,1)] [School()] damage and has a [accuracy(1,3)]% chance to put the target to sleep for [duration(1,3)] |4round:rounds;.
 
-Damage increases by [FormatDamage(5*AttackBonus())] each time it is used. Max [FormatDamage(25 *AttackBonus())] [School()] damage.","0","1","0","1"
+Damage increases by [FormatDamage(10*AttackBonus())] each time it is used. Max [FormatDamage(30 *AttackBonus())] [School()] damage.","0","1","0","1"
 "595","136096","Moonfire","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
 
 Deals [StandardDamage(1,1)] [School()] damage and turns the weather into Moonlight for [duration(1,2)] rounds.
@@ -1533,7 +1533,7 @@ Acid eats away at the target, dealing [StandardDamage(1,1)] [School()] damage an
 "757","133847","Lucky Dance","Increases your team's hit chance  by [abs(abilityStateMod(41,251))]% and increases your team's critical strike chance by [abs(abilityStateMod(40,251))]% for [duration(1,1)] |4round:rounds;.","0","4","2","0"
 "758","294479","Mrrrgglllrggghl","Sacrifice half of your HP to call another baby Murloc to help you for [duration(1,4)]  |4round:rounds.
 
-A team may only have one clone.","0","0","2","5"
+A team may only have one clone.","0","0","2","8"
 "759","134952","Block","Blocks a single attack.","0","-1","2","0"
 "760","134952","Shield Block","A shield surrounds you, blocking the next attack.","0","0","2","3"
 "761","236171","Heroic Leap","[StandardAccuracy(2,1)] |cffffffffHit Chance|r
@@ -2567,6 +2567,19 @@ A team may only have one clone.","0","2","2","8"
 Swarms the target, causing [FormatDamage(SimpleDamage(1,1)+SimpleDamage(1,2)+SimpleDamage(1,3))] [School()] damage every round. Lasts [numTurns()] |4round:rounds;.
 
 Opponents struck by the flock take double damage for [duration(1,4)] |4round:rounds;.","0","2","0","0"
+"1796","646059","Family Reunion","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
+
+Gathers Trashy's family, causing [FormatDamage(SimpleDamage(1,1)+SimpleDamage(1,2)+SimpleDamage(1,3))] [School()] damage.
+
+Opponents struck by the stampede take double damage for [duration(1,4)] |4round:rounds;.
+
+Stampede continues for [numTurns()] |4round:rounds;.","0","4","0","0"
+"1797","236994","Dumpster Dive","[StandardAccuracy(2,1)] |cffffffffHit Chance|r
+
+Leap up high, becoming unattackable for one round. 
+
+On the next round, you attack, dealing [StandardDamage(2, 1)] [School()] damage.","0","4","0","4"
+"1810","237432","Temporal Anomaly","Reduce your opponents team's speed by [abs(abilityStateMod(25,154))]% for [duration(1,1)] |4round:rounds;.","0","5","2","3"
 "928","653221","Speed Reduction","Speed reduced by [abs(abilityStateMod(25,154))]%.","316","-1","3","0"
 "927","135860","Stunned","Unable to give this pet commands.","103","-1","3","0"
 "1671","135860","Stunned","Unable to give this pet commands.","103","-1","3","0"
@@ -2596,6 +2609,11 @@ When the effect expires, it jumps to an ally.","0","-1","0","0"
 "683","535592","Apocalypse","A meteor is falling from the twisting nether. When it lands all active pets will die.
 
 This effect cannot be removed.  Cockroaches and Beetles always survive this attack.","240","4","3","0"
+"1839","458970","Blitz","[StandardAccuracy(1,1)] |cffffffffHit Chance|r
+
+Pummels the enemy 1-2 times, dealing [StandardDamage(1,1)] [School()] damage per hit.
+
+Hits an additional time if the user attacks first.","0","0","0","0"
 "1075","134964","Spiny Carapace","Deals [FormatDamage(SimpleDamage(1,1),nil,AURAENEMY)] [School()] damage each time you take direct damage.","0","8","0","0"
 "1378","135971","Righteous Inspiration","The user inspires a friendly pet to charge into battle.  This ability always goes first.
 

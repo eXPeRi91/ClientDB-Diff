@@ -1,0 +1,202 @@
+Id,Unknown0,Unknown1,Unknown2,Unknown3,Unknown4,Unknown5,Unknown6,Unknown8,Unknown9,Unknown10,Unknown11,Unknown12,Unknown13,Unknown14,Unknown15,Unknown16,Unknown17,Unknown18,Unknown19
+"39","136012","Bloodlust","Enables the Bloodlust ability, which increases the success chance of the first mission you send each day by ${$a701}%.","7200","0","1","0","31","578","41962","50","1220","0","0","0","500","1220","86400","0"
+"40","451167","Reincarnation","Enables the Reincarnation ability for all missions, granting a ${$a772}% chance on mission success to recover an expired Troop with $m772 Vitality.","14400","1","1","0","31","646","41955","500","1220","0","0","0","2000","1220","259200","0"
+"41","237574","Ancestral Gift","Enables a chance on mission success for your Champions to return with Champion armaments or equipment.","604800","2","1","0","31","788","41958","1000","1220","0","0","0","2000","1220","259200","0"
+"42","237571","Ancestral Legends","Increase the number of Legendary items you can equip by ${$a898}.","1209600","5","0","0","31","0","41961","15000","1220","0","0","0","0","0","0","0"
+"43","893777","Elemental Knowledge","Newly recruited Lesser Elementals become Greater Elementals, increasing their chance of mission success by ${$a638-$a637}%.","864000","3","0","0","31","0","41959","10000","1220","0","0","0","2000","1220","259200","0"
+"44","451165","Whispers of the Earth","Newly recruited Circles of Earthcallers become Earthen Ring Geomancers, which gain:
+
+|TInterface\ICONS\ABILITY_RHYOLITH_MAGMAFLOW_WAVE.BLP:20:20:0:0|t |CffffffffMagma Storm|R
+$@garrabdesc583","864000","3","1","0","31","0","41959","10000","1220","0","0","0","2000","1220","259200","0"
+"46","132148","Rise!","Allows you to recruit Ascendants.
+
+Ascendants increase success chance by ${$a650}% on missions with either |C00b3ffffHazards|R, |C00b3ffffSpells|R or |C00b3ffffMinions|R, chosen at random, in addition to:
+
+|TInterface\ICONS\ABILITY_DUALWIELDSPECIALIZATION.BLP:20:20:0:0|t |CffffffffAscendant's Fury|R
+$@garrabdesc531","1036800","4","1","0","31","0","41960","12500","1220","0","0","0","2000","1220","259200","0"
+"49","636335","Spirit Walk","Allows you to place a work order for 1 of your 3 weekly Seals of Broken Fate in exchange for Order Resources.","1036800","4","0","0","31","0","41960","12500","1220","0","0","0","2000","1220","259200","0"
+"52","135776","Training Grounds","Increases the maximum number of Lesser and Greater Elementals, Earthcallers and Geomancers you can recruit by ${$a702}.","604800","2","0","0","31","579","41958","1000","1220","0","0","0","2000","1220","259200","0"
+"53","135988","Elemental Binding","Grants access to the Lords of Fire, Earth, Wind and Water.  Each day a random Lord will appear in your Order Hall who can provide you with a powerful combat bonus.","14400","1","0","0","31","0","41955","500","1220","0","0","0","2000","1220","259200","0"
+"54","136014","The Spirit's Call","Increases the chance for quest rewards to get a rare or epic Bonus Upgrade from non-repeatable quests.","7200","0","0","0","31","0","41962","50","1220","0","219866","41975","500","1220","86400","0"
+"248","636335","Auspicious Fortune","Increases the chance for quest rewards to get a rare or epic Bonus Upgrade from non-repeatable quests.","7200","0","0","0","4","0","41962","50","1220","0","219866","41975","500","1220","86400","0"
+"249","648628","Enlightenment","Newly recruited troops have a chance to be promoted one rank, making them more powerful.  
+
+Initiates have a chance to become Adepts, and Adepts have a chance to become Masters.","14400","1","1","0","4","0","41955","500","1220","0","0","0","2000","1220","259200","0"
+"250","620829","Path of the Ox","Newly recruited Ox Initiates become Ox Adepts, increasing their chance of mission success by ${$a897-$a695}%.","864000","3","0","0","4","0","41959","10000","1220","0","0","0","2000","1220","259200","0"
+"251","611420","Path of the Tiger","Newly recruited Tiger Initiates become Tiger Adepts, which gain:
+
+|TInterface\ICONS\ABILITY_MONK_CRANEKICK_NEW.BLP:20:20:0:0|t |CffffffffSpinning Crane Kick|R
+$@garrabdesc576","864000","3","1","0","4","0","41959","10000","1220","0","0","0","2000","1220","259200","0"
+"252","651489","Living Quarters","Increases the maximum number of Ox Initiates, Ox Adepts, Tiger Initiates and Tiger Adepts you can recruit by ${$a694}.","604800","2","0","0","4","571","41958","1000","1220","0","0","0","2000","1220","259200","0"
+"253","134268","Lucky Envelope","Enables the Lucky Envelope ability, which increases the success chance of the first mission you send each day by ${$a693}%.","7200","0","1","0","4","570","41962","50","1220","0","0","0","500","1220","86400","0"
+"254","651573","Brewhouse","Grants you access to the Bubbling Keg inside the Stormstout Inn once a day.  
+
+Tapping the Bubbling Keg will grant valuable bonuses to assist you while questing in the Broken Isles.","14400","1","0","0","4","0","41955","500","1220","0","223218","0","2000","1220","259200","0"
+"255","775462","Pilgrimage","Enables a chance on mission success for your Champions to return with Champion armaments or equipment.","604800","2","1","0","4","785","41958","1000","1220","0","0","0","2000","1220","259200","0"
+"256","656322","One with Destiny","Allows you to place a work order for 1 of your 3 weekly Seals of Broken Fate in exchange for Order Resources.","1036800","4","0","0","4","0","41960","12500","1220","0","0","0","2000","1220","259200","0"
+"257","656166","Celestial Favor","Allows you to recruit Celestials.  
+
+Celestials have a random Monk Specialization and can counter a |C00b3ffffBoss|R, in addition to:
+
+|TInterface\ICONS\INV_CELESTIALSERPENTMOUNT.BLP:20:20:0:0|t |CffffffffEcho of the Celestial|R
+$@garrabdesc749","1036800","4","1","0","4","0","41960","12500","1220","0","0","0","2000","1220","259200","0"
+"258","606548","Fists of Legend","Increase the number of Legendary items you can equip by ${$a898}.","1209600","5","0","0","4","0","41961","15000","1220","0","0","0","0","0","0","0"
+"347","236151","Elune's Favor","Increases the chance for quest rewards to get a rare or epic Bonus Upgrade from non-repeatable quests.","7200","0","0","0","107","0","41962","50","1220","0","219866","41975","500","1220","86400","0"
+"348","1033478","Reclamation","Enables a chance on mission success for your Champions to return with Champion armaments or equipment.","604800","2","1","0","107","787","41958","1000","1220","0","0","0","2000","1220","259200","0"
+"349","132144","Travel Form","Enables the Travel Form ability for all missions, reducing mission duration by ${100-$a715*100}%.","14400","1","1","0","107","592","41955","500","1220","0","0","0","2000","1220","259200","0"
+"350","132136","Hibernation","Increases the maximum number of Dreamgrove Treants, Daughters of Cenarius, Druids of the Claw and Keepers of the Grove you can recruit by ${$a900}.","604800","2","0","0","107","753","41958","1000","1220","0","0","0","2000","1220","259200","0"
+"351","136021","Laughing Sisters","Newly recruited Dreamgrove Treants become Daughters of Cenarius, increasing their chance of mission success by ${$a679-$a678}%.","864000","3","0","0","107","0","41959","10000","1220","0","0","0","2000","1220","259200","0"
+"352","132113","Force of the Forest","Newly recruited Druids of the Claw become Keepers of the Grove and gain:
+
+|TInterface\ICONS\ABILITY_DRUID_FLOURISH.BLP:20:20:0:0|t |CffffffffWild Growth|R
+$@garrabdesc558","864000","3","1","0","107","0","41959","10000","1220","0","0","0","2000","1220","259200","0"
+"353","134412","Roots","Enables the Roots ability, which increases the success chance of the first mission you send each day by ${$a714}% if that mission has |C00b3ffffMinions|R.","7200","0","1","0","107","591","41962","50","1220","0","0","0","500","1220","86400","0"
+"354","612099","Evergreen","Grants access to two plots of rich soil, allowing you to grow and harvest plants that provide helpful items once every 3 days to use on the Broken Isles.","14400","1","0","0","107","0","41955","500","1220","0","0","0","2000","1220","259200","0"
+"355","611423","Elune's Chosen","Allows you to place a work order for 1 of your 3 weekly Seals of Broken Fate in exchange for Order Resources.","1036800","4","0","0","107","0","41960","12500","1220","0","0","0","2000","1220","259200","0"
+"356","874857","Ancient of War","Allows you to recruit an Ancient of War.  
+
+Ancients of War have a random Druid Specialization and can counter a |C00b3ffffBoss|R, in addition to:
+
+|TInterface\ICONS\INV_PET_ANCIENTPROTECTOR.BLP:20:20:0:0|t |CffffffffStrength of the Ancients|R
+$@garrabdesc435","1036800","4","1","0","107","0","41960","12500","1220","0","0","0","2000","1220","259200","0"
+"357","1045105","Natural Legend","Increase the number of Legendary items you can equip by ${$a898}.","1209600","5","0","0","107","0","41961","15000","1220","0","0","0","0","0","0","0"
+"358","538039","Dark Bargain","Increases the chance for quest rewards to get a rare or epic Bonus Upgrade from non-repeatable quests.","7200","0","0","0","110","0","41962","50","1220","0","219866","41975","500","1220","86400","0"
+"359","615103","Summon Doomguard","Enables the Summon Doomguard ability, which increases the success chance of the first mission you send each day by ${$a616}%.","7200","0","1","0","110","500","41962","50","1220","0","0","0","500","1220","86400","0"
+"360","136194","Ritual of Summoning","Enables the Ritual of Summoning ability for all missions, reducing mission duration by ${100-$a615*100}%.","14400","1","1","0","110","499","41955","500","1220","0","0","0","2000","1220","259200","0"
+"361","538442","Training Grounds","Increases the maximum number of Imps, Wild Imps, Acolytes and Invokers you can recruit by ${$a614}.","604800","2","0","0","110","498","41958","1000","1220","0","0","0","2000","1220","259200","0"
+"362","236295","Dark Mastery","Newly recruited Black Harvest Acolytes become Black Harvest Invokers, which gain:
+
+|TInterface\ICONS\ABILITY_WARLOCK_INFERNOGREEN.BLP:20:20:0:0|t |CffffffffRain of Fel Fire|R
+$@garrabdesc485","864000","3","1","0","110","0","41959","10000","1220","0","0","0","2000","1220","259200","0"
+"363","537517","Grim Harvest","Completing World Quests with a Combat Ally provides Order Resources.","1036800","4","1","0","110","746","41960","12500","1220","0","0","0","2000","1220","259200","0"
+"364","1032479","Shadow Pact","Allows you to place work orders for Champion armaments or equipment in exchange for Order Resources.","604800","2","1","0","110","0","41958","1000","1220","0","0","0","2000","1220","259200","0"
+"365","460694","Grimoire of Servitude","Newly recruited Packs of Imps become Swarms of Wild Imps, which have:
+
+|TInterface\ICONS\SPELL_SHADOW_ANTISHADOW.BLP:20:20:0:0|t |CffffffffDemonic Pact|R
+$@garrabdesc497","864000","3","0","0","110","0","41959","10000","1220","0","0","0","2000","1220","259200","0"
+"366","460696","Demonic Offering","Grants you access to Ritual of Doom, allowing you and four compatriots to summon mighty demons in search of empowering magics and demonic treasures.","14400","1","0","0","110","0","41955","500","1220","0","227892","0","2000","1220","259200","0"
+"367","135803","Unleash Infernal","Allows you to place a work order for a Demonic Phylactery, used to unleash an Infernal to instantly complete a non-elite World Quest on your map once every 18 hours.","1036800","4","0","0","110","0","41960","12500","1220","0","219540","0","2000","1220","259200","0"
+"368","615096","Legends of the Fel","Increase the number of Legendary items you can equip by ${$a898}.","1209600","5","0","0","110","0","41961","15000","1220","0","0","0","0","0","0","0"
+"369","132168","Rugged Upgrades","Increases the chance for quest rewards to get a rare or epic Bonus Upgrade from non-repeatable quests.","7200","0","0","0","113","0","41962","50","1220","0","219866","41975","500","1220","86400","0"
+"370","1392555","Long Range","Enables the Long Range ability, which increases the success chance of the first mission you send each day by ${$a707}%.","7200","0","1","0","113","584","41962","50","1220","0","0","0","500","1220","86400","0"
+"371","132294","Disengage","Enables the Disengage ability for all missions, which increases success chance of missions with |C00b3ffffHazards|R by ${$a787}%.","14400","1","1","0","113","661","41955","500","1220","0","0","0","2000","1220","259200","0"
+"372","236200","Sturdy Tents","Increases the maximum number of Archers, Marksmen, Trackers and Pathfinders you can recruit by ${$a708}.","604800","2","0","0","113","585","41958","1000","1220","0","0","0","2000","1220","259200","0"
+"373","132177","Keen Eye","Newly recruited Squads of Archers become Unseen Marksmen, increasing their chance of mission success by ${$a634-$a633}%.","864000","3","0","0","113","0","41959","10000","1220","0","0","0","2000","1220","259200","0"
+"374","133208","Wild Calling","Newly recruited Bands of Trackers become Pathfinders which gain:
+
+|TInterface\ICONS\SPELL_FIRE_FLARE.BLP:20:20:0:0|t |CffffffffFlare|R
+$@garrabdesc520","864000","3","1","0","113","0","41959","10000","1220","0","0","0","2000","1220","259200","0"
+"375","1392564","Eagle Ally","Allows access to the Eagle Flight Network, a number of flight paths scattered across the Broken Isles.","14400","1","0","0","113","0","41955","500","1220","0","0","0","2000","1220","259200","0"
+"376","135904","Foraging","Completing World Quests with a Combat Ally provides Order Resources.","1036800","4","1","0","113","786","41960","12500","1220","0","0","0","2000","1220","259200","0"
+"377","461118","Unseen Path","Allows you to place a work order for 1 of your 3 weekly Seals of Broken Fate in exchange for Order Resources.","1036800","4","0","0","113","0","41960","12500","1220","0","0","0","2000","1220","259200","0"
+"378","236204","Fletchery","Allows you to place work orders for Champion armaments or equipment in exchange for Order Resources.","604800","2","1","0","113","0","41958","1000","1220","0","0","0","2000","1220","259200","0"
+"379","538771","Legends of the Wild","Increase the number of Legendary items you can equip by ${$a898}.","1209600","5","0","0","113","0","41961","15000","1220","0","0","0","0","0","0","0"
+"380","252267","Arcane Provenance","Increases the chance for quest rewards to get a rare or epic Bonus Upgrade from non-repeatable quests.","7200","0","0","0","116","0","41962","50","1220","0","219866","41975","500","1220","86400","0"
+"381","135848","Frost Nova","Enables the Frost Nova ability, which increases the success chance of the first mission you send each day by ${$a710}% if that mission has |C00b3ffffMinions|R.","7200","0","1","0","116","587","41962","50","1220","0","0","0","500","1220","86400","0"
+"382","135736","Blink","Enables the Blink ability for all missions, reducing mission duration by ${100-$a712*100}%.","14400","1","1","0","116","589","41955","500","1220","0","0","0","2000","1220","259200","0"
+"383","354435","Arcane Library","Increases the maximum number of Water Elementals, Arcane Golems, Tirisgarde Apprentices and Kirin Tor Invokers you can recruit by ${$a711}.","604800","2","0","0","116","588","41958","1000","1220","0","0","0","2000","1220","259200","0"
+"384","651082","Elemental Power","Newly recruited Water Elementals become Arcane Golems, increasing their chance of mission success by ${$a677-$a676}%.","864000","3","0","0","116","0","41959","10000","1220","0","0","0","2000","1220","259200","0"
+"385","236225","Higher Learning","Newly recruited Tirisgarde Apprentices become Kirin Tor Invokers which gain:
+
+|TInterface\ICONS\SPELL_NATURE_ENCHANTARMOR.BLP:20:20:0:0|t |CffffffffPresence of Mind|R
+$@garrabdesc552","864000","3","1","0","116","0","41959","10000","1220","0","0","0","2000","1220","259200","0"
+"386","237509","Teleportation Nexus","Grants access to the Teleportation Nexus, an array of portals distributed across the Broken Isles, allowing you to quickly move around the world.","14400","1","0","0","116","0","41955","500","1220","0","223413","0","2000","1220","259200","0"
+"387","609814","Arcane Divination","Allows you to place a work order for 1 of your 3 weekly Seals of Broken Fate in exchange for Order Resources.","1036800","4","1","0","116","0","41960","12500","1220","0","218708","0","2000","1220","259200","0"
+"388","610679","Might of Dalaran","Allows you to place a work order for a Focusing Crystal, used to unleash the Might of Dalaran to instantly complete a non-elite World Quest on your map once every 18 hours.","1036800","4","0","0","116","0","41960","12500","1220","0","221602","0","2000","1220","259200","0"
+"389","135752","Arcane Armaments","Allows you to place work orders for Champion armaments or equipment in exchange for Order Resources.","604800","2","1","0","116","0","41958","1000","1220","0","0","0","2000","1220","259200","0"
+"390","895887","Legends of the Tirisgarde","Increase the number of Legendary items you can equip by ${$a898}.","1209600","5","0","0","116","0","41961","15000","1220","0","0","0","0","0","0","0"
+"391","589117","Light's Favor","Increases the chance for quest rewards to get a rare or epic Bonus Upgrade from non-repeatable quests.","7200","0","0","0","119","0","41962","50","1220","0","219866","41975","500","1220","86400","0"
+"392","135993","Blessing of Kings","Enables the Blessing of Kings ability, which increases the success chance of the first mission you send each day by ${$a718}%.","7200","0","1","0","119","595","41962","50","1220","0","0","0","500","1220","86400","0"
+"393","1030099","Righteous Blessing","Enables the Righteous Blessing ability for all missions, which increases success chance of missions with |C00b3ffffSpells|R by ${$a716}%.","14400","1","1","0","119","593","41955","500","1220","0","0","0","2000","1220","259200","0"
+"394","236690","Argent Call","Increase the maximum number of Squires, Shieldbearers, Knights and Templar you can recruit by ${$a717}.","604800","2","0","0","119","594","41958","1000","1220","0","0","0","2000","1220","259200","0"
+"395","1278391","As One","Newly recruited Squads of Squires become a Shieldbearer Phalanx, increasing their chance of mission success by ${$a638-$a637}%.","864000","3","0","0","119","0","41959","10000","1220","0","0","0","2000","1220","259200","0"
+"396","237547","Templar of the Silver Hand","Newly recruited Silver Hand Knights become Silver Hand Templars which gain:
+
+|TInterface\ICONS\SPELL_HOLY_HEROISM.BLP:20:20:0:0|t |CffffffffGuardians of Kings|R
+$@garrabdesc562","864000","3","1","0","119","0","41959","10000","1220","0","0","0","2000","1220","259200","0"
+"397","1360759","Argent Steed","Grants access to the Argent Charger Hitching Post once a day, allowing you to summon a Charger which allows you to perform mounted combat for a short duration.","14400","1","0","0","119","0","41955","500","1220","0","0","0","2000","1220","259200","0"
+"398","135909","Holy Purpose","Allows you to place a work order for 1 of your 3 weekly Seals of Broken Fate in exchange for Order Resources.","1036800","4","1","0","119","0","41960","12500","1220","0","0","0","2000","1220","259200","0"
+"399","1360760","Grand Crusade","Allows you to place a work order for the Silver Hand Orders, used to unleash the Vanguard of the Silver Hand to instantly complete a non-elite World Quest on your map once every 18 hours.","1036800","4","0","0","119","0","41960","12500","1220","0","221587","0","2000","1220","259200","0"
+"400","1030096","Plowshares to Swords","Allows you to place work orders for Champion armaments or equipment in exchange for Order Resources.","604800","2","1","0","119","0","41958","1000","1220","0","0","0","2000","1220","259200","0"
+"401","135965","Legends of the Righteous","Increase the number of Legendary items you can equip by ${$a898}.","1209600","5","0","0","119","0","41961","15000","1220","0","0","0","0","0","0","0"
+"402","132275","Odyn's Favor","Increases the chance for quest rewards to get a rare or epic Bonus Upgrade from non-repeatable quests.","7200","0","0","0","122","0","41962","50","1220","0","219866","41975","500","1220","86400","0"
+"403","236317","Rallying Cry","Enables the Rallying Cry ability, which increases the success chance of the first mission you send each day by ${$a719}% per troop Vitality.","7200","0","1","0","122","596","41962","50","1220","0","0","0","500","1220","86400","0"
+"404","132277","Forced March","Enables the Forced March ability for all missions, reducing mission duration by ${100-$a720*100}%.","14400","1","1","0","122","597","41955","500","1220","0","0","0","2000","1220","259200","0"
+"405","132351","Abundant Valor","Increases the maximum number of Valarjar Aspirants, Stormforged Valarjar, Shieldmaiden Warbands and Valkyra Shieldmaidens you can recruit by ${$a721}.","604800","2","0","0","122","598","41958","1000","1220","0","0","0","2000","1220","259200","0"
+"406","132346","Trial by Fire","Newly recruited Valajar Aspirants become Stormforged Valarjar, increasing their chance of mission success by ${$a725-$a722}%.","864000","3","0","0","122","0","41959","10000","1220","0","0","0","2000","1220","259200","0"
+"407","132339","Ascension","Newly recruited Shieldmaiden Warbands become Valkyra Shieldmaidens, which gain:
+
+|TInterface\ICONS\Ability_Paladin_TowerofLight.blp:20:20:0:0|t |CffffffffFlight of the Valkyra|R
+$@garrabdesc601","864000","3","1","0","122","0","41959","10000","1220","0","0","0","2000","1220","259200","0"
+"408","132334","For Honor and Glory","Grants you the ability to see the Skyhold Chest of Riches within the perilous Circle of Glory.  Compete with your fellow Warriors for the chance to loot its riches once a week.","14400","1","0","0","122","0","41955","500","1220","0","0","0","2000","1220","259200","0"
+"409","236307","Spoils of War","Completing World Quests with a Combat Ally provides Order Resources.","1036800","4","1","0","122","747","41960","12500","1220","0","0","0","2000","1220","259200","0"
+"410","1349535","Val'kyr Call","Allows you to place a work order for the Horn of War, used to unleash a Vanguard of Val'kyr to instantly complete a non-elite World Quest on your map once every 18 hours.","1036800","4","0","0","122","0","41960","12500","1220","0","221597","0","2000","1220","259200","0"
+"411","1357798","Heavenly Forge","Allows you to place work orders for Champion armaments or equipment in exchange for Order Resources.","604800","2","1","0","122","0","41958","1000","1220","0","0","0","2000","1220","259200","0"
+"412","460957","Legends of Ragnarok","Increase the number of Legendary items you can equip by ${$a898}.","1209600","5","0","0","122","0","41961","15000","1220","0","0","0","0","0","0","0"
+"413","607854","Well Prepared","Increases the chance for quest rewards to get a rare or epic Bonus Upgrade from non-repeatable quests.","7200","0","0","0","125","0","41962","50","1220","0","219866","41975","500","1220","86400","0"
+"414","1344654","The Hunt","Enables The Hunt ability, which increases the success chance of the first mission you send each day by ${$a738}%.","7200","0","1","0","125","614","41962","50","1220","0","0","0","500","1220","86400","0"
+"415","1348401","Vengeful Retreat","Enables the Vengeful Retreat ability for all missions, which increases success chance of missions with |C00b3ffffMinions|R by ${$a740}%.","14400","1","1","0","125","616","41955","500","1220","0","0","0","2000","1220","259200","0"
+"416","1380677","Training Grounds","Increases the maximum number of Ashtongue Warriors, Naga Myrmidon, Illidari Adepts and Transformed Illidari Adepts you can recruit by ${$a739}.","604800","2","0","0","125","615","41958","1000","1220","0","0","0","2000","1220","259200","0"
+"417","1391617","Naga Myrmidons","Newly recruited Ashtongue Warriors become Naga Myrmidons increasing their chance of mission success by ${$a728-$a726}%.","864000","3","0","0","125","0","41959","10000","1220","0","0","0","2000","1220","259200","0"
+"418","1247262","Demonic Power","Newly recruited Illidari Adepts become Transformed Illidari Adepts which gain:
+
+|TInterface\ICONS\ABILITY_WARLOCK_SHADOWFURYTGA.BLP:20:20:0:0|t |CffffffffDemon Form|R
+$@garrabdesc606","864000","3","1","0","125","0","41959","10000","1220","0","0","0","2000","1220","259200","0"
+"419","134544","Twisting Nether","Grants you access to Portal to the Twisting Nether, summoning a mighty demon that you and your allies may defeat for fortifying bonuses and potential treasure.","14400","1","0","0","125","0","41955","500","1220","0","228651","0","2000","1220","259200","0"
+"420","1392947","Focused War Effort","Allows you to place a work order for 1 of your 3 weekly Seals of Broken Fate in exchange for Order Resources.","1036800","4","1","0","125","0","41960","12500","1220","0","0","0","2000","1220","259200","0"
+"421","1247266","Fel Hammer's Wrath","Allows you to place a work order for the Empowered Rift Core, used to unleash the wrath of your order to instantly complete a non-elite World Quest on your map once every 18 hours.","1036800","4","0","0","125","0","41960","12500","1220","0","221561","0","2000","1220","259200","0"
+"422","1380365","Fel Armaments","Allows you to place work orders for Champion armaments or equipment in exchange for Order Resources.","604800","2","1","0","125","0","41958","1000","1220","0","0","0","2000","1220","259200","0"
+"423","1247265","Demonic Fate","Increase the number of Legendary items you can equip by ${$a898}.","1209600","5","0","0","125","0","41961","15000","1220","0","0","0","0","0","0","0"
+"424","1390941","Death's Boon","Increases the chance for quest rewards to get a rare or epic Bonus Upgrade from non-repeatable quests.","7200","0","0","0","128","0","41962","50","1220","0","219866","41975","500","1220","86400","0"
+"425","237511","Swarm","Enables the Swarm ability, which increases the success chance of the first mission you send each day by ${$a755}% when a Pack of Ghouls or Geist Swarm is on the mission.","7200","0","1","0","128","631","41962","50","1220","0","0","0","500","1220","86400","0"
+"426","237561","Death's Advance","Enables the Death's Advance ability for all missions, which increases the success chance for missions with |C00b3ffffHazards|R by ${$a754}%.","14400","1","1","0","128","630","41955","500","1220","0","0","0","2000","1220","259200","0"
+"427","1065381","Call of the Grave","Increases the maximum number of Ghouls, Geists, Knights and Ravagers you can recruit by ${$a753}.","604800","2","0","0","128","629","41958","1000","1220","0","0","0","2000","1220","259200","0"
+"428","1100170","Construct Quarter","Newly recruited Packs of Ghouls become Geist Swarms, increasing their chance of mission success by ${$a742-$a741}%.","864000","3","0","0","128","0","41959","10000","1220","0","0","0","2000","1220","259200","0"
+"429","1392551","Live by the Sword","Newly recruited Ebon Knights become Ebon Ravagers.  
+
+Ebon Ravagers gain a random Specialization and can counter a |C00b3ffffBoss|R.","864000","3","1","0","128","0","41959","10000","1220","0","0","0","2000","1220","259200","0"
+"430","524049","Dark Horsemen","Grants access to the Deathcharger Hitching Post once a day, used to summon a Deathcharger which allows you to perform mounted combat for a short duration.","14400","1","0","0","128","0","41955","500","1220","0","0","0","2000","1220","259200","0"
+"431","136187","Reanimation","Successful missions have a chance to return a Pile of Bits and Bones which can be combined into Abominations.
+
+Abominations increase success chance by ${$a650}% on missions with either |C00b3ffffHazards|R, |C00b3ffffSpells|R or |C00b3ffffMinions|R, chosen at random, in addition to:
+
+|TInterface\ICONS\SPELL_DEATHKNIGHT_EXPLODE_GHOUL.BLP:20:20:0:0|t |CffffffffVile Aberration|R
+$@garrabdesc778","1036800","4","1","0","128","782","41960","12500","1220","0","0","0","2000","1220","259200","0"
+"432","1029007","Frost Wyrm","Allows you to place a work order for the Frost Crux, used to call down a Frost Wyrm to instantly complete a non-elite World Quest on your map once every 18 hours.","1036800","4","0","0","128","0","41960","12500","1220","0","221557","0","2000","1220","259200","0"
+"433","237512","Brothers in Arms","Allows you to place work orders for Champion armaments or equipment in exchange for Order Resources.","604800","2","1","0","128","0","41958","1000","1220","0","0","0","2000","1220","259200","0"
+"434","879926","Legends from the Grave","Increase the number of Legendary items you can equip by ${$a898}.","1209600","5","0","0","128","0","41961","15000","1220","0","0","0","0","0","0","0"
+"435","418250","Lucky Streak","Increases the chance for quest rewards to get a rare or epic Bonus Upgrade from non-repeatable quests.","7200","0","0","0","131","0","41962","50","1220","0","219866","41975","500","1220","86400","0"
+"436","1373907","Sneak Attack","Enables the Sneak Attack ability, which increases the success chance of the first mission you send each day by ${$a769}%.","7200","0","1","0","131","643","41962","50","1220","0","0","0","500","1220","86400","0"
+"437","236173","Assassination","Enables the Assassination ability for all missions, which increases success chance of missions with |C00b3ffffMinions|R by ${$a770}%.","14400","1","1","0","131","644","41955","500","1220","0","0","0","2000","1220","259200","0"
+"438","1379239","Prizefights","Increases the maximum number of Bandits, Thieves, Pirates and Duelists you can recruit by ${$a771}.","604800","2","0","0","131","645","41958","1000","1220","0","0","0","2000","1220","259200","0"
+"439","1373912","Defiant Legacy","Newly recruited Bandits become Defias Thieves, which have:
+
+|TInterface\ICONS\INV_MISC_BAG_11.BLP:20:20:0:0|t |CffffffffPick Pocket|R
+$@garrabdesc634","864000","3","0","0","131","0","41959","10000","1220","0","0","0","2000","1220","259200","0"
+"440","1269440","Crimson Sails","Newly recruited Pirates become Uncrowned Duelists, which gain:
+
+|TInterface\ICONS\ABILITY_PARRY.BLP:20:20:0:0|t |CffffffffEn Garde|R
+$@garrabdesc635","864000","3","1","0","131","0","41959","10000","1220","0","0","0","2000","1220","259200","0"
+"441","1269443","The Vault","Grants a chance for Champions on successful missions to return with a Vault Ticket.
+
+Vault Tickets grant you permission to loot a random reward from the Uncrowned Vault once a week, containing riches beyond your wildest dreams.","14400","1","0","0","131","789","41955","500","1220","0","0","0","2000","1220","259200","0"
+"442","132092","Under the Table","Completing World Quests with a Combat Ally provides Order Resources.","1036800","4","1","0","131","783","41960","12500","1220","0","0","0","2000","1220","259200","0"
+"443","1398087","Plunder","Allows you to place a work order for 1 of your 3 weekly Seals of Broken Fate in exchange for Order Resources.","1036800","4","0","0","131","0","41960","12500","1220","0","0","0","2000","1220","259200","0"
+"444","840720","Weapons Smuggler","Allows you to place work orders for Champion armaments or equipment in exchange for Order Resources.","604800","2","1","0","131","0","41958","1000","1220","0","0","0","2000","1220","259200","0"
+"445","1398088","Armed to the Teeth","Increase the number of Legendary items you can equip by ${$a898}.","1209600","5","0","0","131","0","41961","15000","1220","0","0","0","0","0","0","0"
+"446","135976","Divine Fate","Increases the chance for quest rewards to get a rare or epic Bonus Upgrade from non-repeatable quests.","7200","0","0","0","134","0","41962","50","1220","0","219866","41975","500","1220","86400","0"
+"447","237539","Daily Prayers","Enables the Daily Prayers ability, which increases the success chance of the first mission you send each day by ${$a785}%.","7200","0","1","0","134","659","41962","50","1220","0","0","0","500","1220","86400","0"
+"448","1022951","Tithe","Completing World Quests with a Combat Ally provides Order Resources.","1036800","4","1","0","134","784","41960","12500","1220","0","0","0","2000","1220","259200","0"
+"449","135946","Communal Living","Increases the maximum number of Acolytes, Paragons, Zealots and Dark Zealots you can recruit by ${$a784}.","604800","2","0","0","134","658","41958","1000","1220","0","0","0","2000","1220","259200","0"
+"450","633042","Inquisition","Newly recruited Acolytes become Paragons, increasing their chance of mission success by ${$a774-$a773}%.","864000","3","0","0","134","0","41959","10000","1220","0","0","0","2000","1220","259200","0"
+"451","1022944","Shadow Heresy","Newly recruited Zealots become Dark Zealots, which gain:
+
+|TInterface\ICONS\ABILITY_WARLOCK_SOULSWAP.BLP:20:20:0:0|t |CffffffffSoul Reapers|R
+$@garrabdesc650","864000","3","1","0","134","0","41959","10000","1220","0","0","0","2000","1220","259200","0"
+"452","135923","Altars of Blessing","Grants you permission to access either the Light Well or the Shadow Well once a day.
+
+Praying to either of these Altars will grant valuable bonuses to assist you while questing in the Broken Isles.","14400","1","0","0","134","0","41955","500","1220","0","0","0","2000","1220","259200","0"
+"453","135936","Pain Suppression","Enables the Pain Suppression ability for all missions, granting a chance for a random troop to not take ${$a786} vitality damage.","14400","1","1","0","134","660","41955","500","1220","0","0","0","2000","1220","259200","0"
+"454","135914","Blessed Seals","Allows you to place a work order for 1 of your 3 weekly Seals of Broken Fate in exchange for Order Resources.","1036800","4","0","0","134","0","41960","12500","1220","0","0","0","2000","1220","259200","0"
+"455","632352","Armaments of Light","Allows you to place work orders for Champion armaments or equipment in exchange for Order Resources.","604800","2","1","0","134","0","41958","1000","1220","0","0","0","2000","1220","259200","0"
+"456","1022949","Armed by Faith","Increase the number of Legendary items you can equip by ${$a898}.","1209600","5","0","0","134","0","41961","15000","1220","0","0","0","0","0","0","0"
